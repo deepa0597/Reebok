@@ -1,0 +1,1136 @@
+,Brand,ProductName,ProductScore,ReviewCount,ProductPrice,Category,UserReview
+0,Adidas,Adidas Adizero Adios 4 ,90,3380,85,running-shoes,4.5
+1,Adidas,Adidas X90004D ,87,67,100,running-shoes,4.5
+2,Adidas,Adidas Adizero Adios 5 ,87,1312,60,running-shoes,4.3
+3,Adidas,Adidas ZX 2K 4D ,68,21,100,running-shoes,4.2
+4,Adidas,Adidas 4DFWD Pulse New ,71,68,80,running-shoes,3.9
+5,Adidas,Adidas Adizero Pro ,89,657,70,running-shoes,4.5
+7,Adidas,Adidas Terrex Agravic BOA ,88,1195,110,running-shoes,4.5
+8,Adidas,Adidas Energy Falcon X ,80,4720,37,running-shoes,4.5
+9,Adidas,Adidas Ultra 4D ,85,61,176,running-shoes,4.1
+10,Adidas,Adidas Ultraboost DNA 1.0 ,86,400,95,running-shoes,4.7
+11,Adidas,Adidas Adizero Boston 9 ,85,1617,72,running-shoes,4.4
+12,Adidas,Adidas Ultraboost 20 ,92,122360,60,running-shoes,4.7
+13,Adidas,Adidas Ultraboost 22 Lab test ,90,17077,62,running-shoes,4.7
+14,Adidas,Adidas SolarGlide 4 ,84,692,50,running-shoes,4.4
+15,Adidas,Adidas Ultraboost DNA ,91,26945,38,running-shoes,4.6
+16,Adidas,Adidas Solarglide 5 ,87,1207,53,running-shoes,4.5
+17,Adidas,Adidas Adizero Boston 8 ,89,3665,140,running-shoes,4.5
+18,Adidas,Adidas Duramo 9 ,80,35814,65,running-shoes,4.4
+19,Adidas,Adidas Adizero Adios Pro 2.0 Lab test ,93,897,129,running-shoes,4.7
+20,Adidas,Adidas Adizero Takumi-Sen 6 ,81,192,70,running-shoes,4.3
+21,Adidas,Adidas Terrex Two Flow ,88,2361,50,running-shoes,4.6
+22,Adidas,Adidas Astrarun ,77,3058,38,running-shoes,4.3
+23,Adidas,Adidas Solar Glide ST ,85,7314,70,running-shoes,4.5
+24,Adidas,Adidas Solar Glide ST 19 ,83,650,60,running-shoes,4.4
+25,Adidas,Adidas Adizero Adios 7 ,70,157,70,running-shoes,4.1
+26,Adidas,Adidas Solar Glide 19 ,87,9850,99,running-shoes,4.5
+27,Adidas,Adidas Galaxy 5 ,87,34574,43,running-shoes,4.5
+28,Adidas,Adidas 4DFWD ,92,1056,220,running-shoes,4.5
+29,Adidas,Adidas Questar Flow NXT ,76,16321,27,running-shoes,4.2
+30,Adidas,Adidas SL Loop CT ,87,147,60,sneakers,4.4
+32,Adidas,Adidas Crazy 1 ADV ,84,222,50,sneakers,4.2
+33,Adidas,Adidas EQT Support Ultra ,86,139,85,sneakers,4.3
+34,Adidas,Adidas SL Rise ,89,166,30,sneakers,4.4
+35,Adidas,Adidas NMD_R1 v2 ,94,10083,60,sneakers,4.7
+36,Adidas,Adidas Yeezy QNTM ,73,15,149,sneakers,4.1
+37,Adidas,Adidas Ninja ZX 2K Boost ,90,127,70,sneakers,4.5
+38,Adidas,Adidas EQT Support RF Primeknit ,90,2129,70,sneakers,4.5
+39,Adidas,Adidas NMD_R2 ,92,27131,40,sneakers,4.6
+40,Adidas,Adidas EQT Support Ultra PK King Push ,88,302,60,sneakers,4.4
+42,Adidas,Adidas NMD_R1 GTX ,86,8,110,sneakers,4.8
+43,Adidas,Adidas NMD_CS1 Primeknit ,92,789,295,sneakers,4.6
+44,Adidas,Adidas EQT Support Ultra Primeknit ,91,11340,116,sneakers,4.6
+46,Adidas,Adidas Yeezy 350 Boost ,92,752,329,sneakers,4.6
+50,Adidas,Adidas Retropy E5 ,95,2010,50,sneakers,4.7
+51,Adidas,Adidas NMD_R1 Primeknit ,91,25266,55,sneakers,4.6
+52,Adidas,Adidas Baseline ,89,1553,39,sneakers,4.4
+54,Adidas,Adidas Puig ,77,13,65,sneakers,4.3
+55,Adidas,Adidas Lite Racer ,90,39173,70,sneakers,4.5
+57,Adidas,Adidas Questar BYD ,90,10263,80,sneakers,4.5
+58,Adidas,Adidas ZX 750 ,90,15500,90,sneakers,4.5
+59,Adidas,BAPE x Adidas NMD_R1 ,93,152,219,sneakers,4.7
+60,Adidas,Adidas Pro Model 2G Low ,79,831,38,basketball-shoes,4.5
+61,Adidas,Adidas Crazy BYW X 2.0 New ,83,29,60,basketball-shoes,4.8
+62,Adidas,Adidas Harden Stepback 2 ,85,2028,54,basketball-shoes,4.5
+63,Adidas,Adidas Harden Stepback 3 ,84,149,57,basketball-shoes,4.3
+64,Adidas,Adidas Exhibit A ,86,61,54,basketball-shoes,4.5
+65,Adidas,Adidas Trae Young 2 New ,58,22,140,basketball-shoes,2.8
+66,Adidas,Adidas Pro Boost Low ,85,444,35,basketball-shoes,4.3
+67,Adidas,Adidas Harden Vol. 5 ,77,794,59,basketball-shoes,4.1
+68,Adidas,Adidas D Rose 4 ,84,14,50,basketball-shoes,4.6
+69,Adidas,Adidas D Rose 11 ,88,397,55,basketball-shoes,4.4
+71,Adidas,Adidas Dame 7 ,90,842,40,basketball-shoes,4.5
+72,Adidas,Adidas Dame 8 ,90,825,60,basketball-shoes,4.6
+73,Adidas,Adidas Trae Young 1 ,90,62,76,basketball-shoes,4.5
+74,Adidas,Adidas Harden Vol. 6 ,90,238,68,basketball-shoes,4.6
+75,Adidas,Adidas D.O.N. Issue #3 ,88,1127,45,basketball-shoes,4.6
+76,Adidas,Adidas D.O.N. Issue #2 ,86,6290,35,basketball-shoes,4.3
+77,Adidas,Adidas D Rose Son Of Chi ,87,398,64,basketball-shoes,4.6
+78,Adidas,Adidas Exhibit B New ,84,6,44,basketball-shoes,4.8
+79,Adidas,Adidas Yeezy BSKTBL Knit ,71,16,185,basketball-shoes,4.1
+80,Adidas,Adidas T-Mac 1 New ,80,11,80,basketball-shoes,5.0
+82,Adidas,Adidas D.O.N. Issue #4 New ,78,32,55,basketball-shoes,4.4
+83,Adidas,Adidas T-Mac 2.0 Restomod ,85,99,50,basketball-shoes,4.6
+84,Adidas,Adidas N3xt L3v3l Futurenatural ,83,132,70,basketball-shoes,4.3
+85,Adidas,Adidas J Wall 2 ,82,427,140,basketball-shoes,4.5
+86,Adidas,Adidas D Lillard 2 ,90,397,90,basketball-shoes,4.4
+87,Adidas,Adidas D Lillard ,85,118,50,basketball-shoes,4.4
+88,Adidas,Adidas D Lillard 3 ,88,1118,50,basketball-shoes,4.3
+89,Adidas,Adidas Explosive Bounce ,87,430,140,basketball-shoes,4.4
+90,Adidas,Adidas Terrex Free Hiker Lab test ,91,3103,100,hiking-boots,4.6
+91,Adidas,Adidas Terrex Free Hiker GTX ,89,7573,120,hiking-boots,4.7
+92,Adidas,Adidas Terrex Pathmaker CP ,83,932,86,hiking-boots,4.6
+93,Adidas,Adidas Terrex AX4 GTX ,83,1720,100,hiking-boots,4.4
+94,Adidas,Adidas Terrex Skychaser LT Mid GTX ,88,218,120,hiking-boots,4.4
+95,Adidas,Adidas Terrex Skychaser XT Mid GTX ,77,501,318,hiking-boots,4.2
+96,Adidas,Adidas Terrex Trailmaker Mid ,82,238,85,hiking-boots,4.5
+97,Adidas,Adidas Terrex AX3 Mid GTX ,80,9618,225,hiking-boots,4.4
+98,Adidas,Adidas Terrex Swift R2 Mid GTX ,85,15971,150,hiking-boots,4.5
+99,Adidas,Adidas Terrex Trailmaker Mid GTX ,82,2266,102,hiking-boots,4.5
+100,Adidas,Adidas Terrex AX3 Beta Mid CW ,78,1315,88,hiking-boots,4.3
+101,Adidas,Adidas Terrex Swift R3 Mid GTX ,83,1071,126,hiking-boots,4.5
+103,Adidas,Adidas Terrex Free Hyperblue Mid ,82,5,140,hiking-boots,5.0
+105,Adidas,Adidas Powerlift 5 New ,87,87,32,training-shoes,4.6
+106,Adidas,Adidas Adipower 2 ,90,3742,74,training-shoes,4.6
+107,Adidas,Adidas Adipower 3 New ,87,875,63,training-shoes,4.5
+108,Adidas,Adidas Pureboost Trainer ,81,1660,59,training-shoes,4.4
+111,Adidas,Adidas Dropset Trainer ,89,392,59,training-shoes,4.6
+112,Adidas,Adidas Powerlift 3.1 ,87,6882,69,training-shoes,4.7
+114,Adidas,Adidas FitBoost Trainer ,85,216,92,training-shoes,4.5
+115,Adidas,Adidas The Total New ,89,94,72,training-shoes,4.6
+117,Adidas,Adidas Alphabounce Trainer ,86,351,50,training-shoes,4.3
+119,Adidas,Adidas Power Perfect 3 ,91,3970,69,training-shoes,4.6
+120,Adidas,Adidas Futurenatural ,82,747,46,training-shoes,4.4
+121,Adidas,Adidas Trainer V ,87,600,59,training-shoes,4.5
+122,Adidas,Adidas Crazy Power RK ,82,496,100,training-shoes,4.4
+123,Adidas,Adidas Icon Trainer ,71,341,60,training-shoes,3.8
+124,Adidas,Adidas Leistung 16 II ,87,1212,90,training-shoes,4.6
+125,Adidas,Adidas Powerlift 4 ,90,18186,41,training-shoes,4.7
+128,Adidas,Adidas AdiPower Weightlifting Shoes ,92,1964,165,training-shoes,4.7
+129,Adidas,Adidas Terrex Free Hiker Cold.RDY ,89,836,212,hiking-shoes,4.6
+130,Adidas,Adidas Terrex Free Hiker Parley ,88,842,130,hiking-shoes,4.5
+131,Adidas,Adidas Terrex Swift R3 ,80,886,74,hiking-shoes,4.2
+132,Adidas,Adidas Terrex Skychaser LT GTX ,81,3360,105,hiking-shoes,4.3
+134,Adidas,Adidas Terrex Voyager ,78,691,45,hiking-shoes,4.2
+135,Adidas,Adidas Terrex Swift R2 GTX Lab test ,88,48377,75,hiking-shoes,4.5
+136,Adidas,Adidas Terrex Swift R3 GTX ,85,5806,48,hiking-shoes,4.3
+137,Adidas,Adidas Terrex Hikster ,80,155,66,hiking-shoes,4.3
+139,Adidas,Adidas Terrex Skychaser 2.0 GTX ,79,485,119,hiking-shoes,4.3
+140,Adidas,Adidas Terrex Folgian Hiker ,79,347,75,hiking-shoes,4.3
+141,Adidas,Adidas Terrex AX2R GTX ,83,2793,100,hiking-shoes,4.5
+142,Adidas,Adidas Terrex Trailmaker ,84,1307,41,hiking-shoes,4.5
+143,Adidas,Adidas Terrex Fast Mid GTX Surround ,87,396,110,hiking-shoes,4.2
+144,Adidas,Adidas Terrex Trailmaker Primegreen ,88,58,68,hiking-shoes,4.7
+145,Adidas,Adidas Terrex AX3 ,83,50296,50,hiking-shoes,4.4
+146,Adidas,Adidas Terrex AX3 GTX ,80,15400,75,hiking-shoes,4.3
+147,Adidas,Adidas Terrex AX4 Primegreen ,86,3955,50,hiking-shoes,4.3
+148,Adidas,Adidas Terrex Eastrail ,87,10452,60,hiking-shoes,4.4
+149,Adidas,Adidas Terrex Eastrail GTX ,81,6527,70,hiking-shoes,4.3
+150,Adidas,Adidas Terrex Fast GTX Surround ,84,355,100,hiking-shoes,4.3
+151,Adidas,Adidas Terrex Eastrail Mid GTX ,79,2836,130,hiking-shoes,4.4
+152,Adidas,Adidas Caprock ,83,353,60,hiking-shoes,4.5
+153,Adidas,Adidas Terrex Swift R2 ,84,20152,195,hiking-shoes,4.4
+154,Adidas,Adidas Terrex Skychaser 2.0 ,82,1572,73,hiking-shoes,4.4
+156,Adidas,Adidas Powerlift 5 New ,87,87,32,training-shoes,4.6
+157,Adidas,Adidas Adipower 2 ,90,3742,74,training-shoes,4.6
+158,Adidas,Adidas Adipower 3 New ,87,875,63,training-shoes,4.5
+159,Adidas,Adidas Pureboost Trainer ,81,1660,59,training-shoes,4.4
+162,Adidas,Adidas Dropset Trainer ,89,392,59,training-shoes,4.6
+163,Adidas,Adidas Powerlift 3.1 ,87,6882,69,training-shoes,4.7
+165,Adidas,Adidas FitBoost Trainer ,85,216,92,training-shoes,4.5
+166,Adidas,Adidas The Total New ,89,94,72,training-shoes,4.6
+168,Adidas,Adidas Alphabounce Trainer ,86,351,50,training-shoes,4.3
+170,Adidas,Adidas Power Perfect 3 ,91,3970,69,training-shoes,4.6
+171,Adidas,Adidas Futurenatural ,82,747,46,training-shoes,4.4
+172,Adidas,Adidas Trainer V ,87,600,59,training-shoes,4.5
+173,Adidas,Adidas Crazy Power RK ,82,496,100,training-shoes,4.4
+174,Adidas,Adidas Icon Trainer ,71,341,60,training-shoes,3.8
+175,Adidas,Adidas Leistung 16 II ,87,1212,90,training-shoes,4.6
+176,Adidas,Adidas Powerlift 4 ,90,18186,41,training-shoes,4.7
+179,Adidas,Adidas AdiPower Weightlifting Shoes ,92,1964,165,training-shoes,4.7
+180,Adidas,Adidas Terrex Voyager 21 New ,90,1174,59,walking-shoes,4.5
+181,Adidas,Adidas SoleCourt Parley ,81,348,239,tennis-shoes,4.4
+183,Adidas,Adidas Stycon ,77,743,47,tennis-shoes,4.1
+184,Adidas,Adidas Adizero Ubersonic 4 ,87,1230,68,tennis-shoes,4.2
+185,Adidas,Adidas Adizero Ubersonic 3.0 ,90,2406,108,tennis-shoes,4.4
+187,Adidas,Adidas SoleCourt Boost Clay ,83,943,95,tennis-shoes,4.2
+188,Adidas,Adidas Stycon Clay ,73,230,80,tennis-shoes,3.9
+189,Adidas,Adidas SoleCourt Primeblue ,79,203,90,tennis-shoes,4.2
+190,Adidas,Adidas Adizero Ubersonic 3.0 Clay ,87,708,104,tennis-shoes,4.3
+193,Adidas,Adidas Barricade Club ,86,2540,123,tennis-shoes,4.4
+195,Adidas,Adidas Adizero Ubersonic 2.0 ,86,595,80,tennis-shoes,4.4
+196,Adidas,Adidas Barricade ,87,4129,68,tennis-shoes,4.3
+199,Adidas,Adidas SoleMatch Bounce ,81,2712,140,tennis-shoes,4.2
+200,Adidas,Adidas GameCourt ,82,14072,62,tennis-shoes,4.2
+201,Adidas,Adidas CourtJam Bounce ,84,4744,76,tennis-shoes,4.3
+202,Adidas,Adidas Adizero Prime SP ,85,62,80,track-and-field-shoes,4.2
+203,Adidas,Adidas Adizero Ambition 4 ,84,300,25,track-and-field-shoes,4.2
+204,Adidas,Adidas Adizero Prime Finesse ,84,285,33,track-and-field-shoes,4.4
+205,Adidas,Adidas Adizero Shotput ,88,204,120,track-and-field-shoes,4.6
+206,Adidas,Adidas Adizero MD ,89,148,70,track-and-field-shoes,4.6
+207,Adidas,Adidas Adizero LJ 2 ,83,12,65,track-and-field-shoes,4.9
+208,Adidas,Adidas Adizero MD 2 ,76,25,28,track-and-field-shoes,4.4
+209,Adidas,Adidas Adizero HJ ,83,220,120,track-and-field-shoes,4.3
+211,Adidas,Adidas Adizero LJ ,88,214,65,track-and-field-shoes,4.6
+212,Adidas,Adidas Adizero TJ/PV ,87,205,50,track-and-field-shoes,4.6
+213,Adidas,Adidas Adizero Avanti ,82,137,26,track-and-field-shoes,4.3
+214,Adidas,Adidas Adizero Accelerator ,87,142,34,track-and-field-shoes,4.4
+216,Adidas,Adidas Jumpstar ,82,191,68,track-and-field-shoes,4.3
+217,Adidas,Adidas Sprintstar ,88,1752,41,track-and-field-shoes,4.5
+218,Adidas,Adidas Distancestar ,87,1217,17,track-and-field-shoes,4.4
+219,Adidas,Adidas Adizero Ambition ,83,98,25,track-and-field-shoes,4.4
+220,Adidas,Adidas Adizero Javelin Throw ,85,81,100,track-and-field-shoes,4.5
+225,Adidas,Adidas Copa 20.3 Firm Ground ,86,4549,41,soccer-cleats,4.4
+226,Adidas,Adidas Nemeziz 19+ Firm Ground ,85,108,110,soccer-cleats,4.4
+227,Adidas,Adidas X Speedflow.1 FG ,85,92,182,soccer-cleats,4.2
+228,Adidas,Adidas X 17.1 Firm Ground ,81,647,70,soccer-cleats,4.3
+229,Adidas,Adidas Copa 19.4 Turf ,82,423,65,soccer-cleats,4.2
+230,Adidas,Adidas Predator 20.1 Shoes ,89,85,67,soccer-cleats,4.7
+231,Adidas,Adidas Nemeziz 19.1 Firm Ground ,86,360,91,soccer-cleats,4.4
+234,Adidas,Adidas Copa Sense.1 FG New ,78,108,92,soccer-cleats,4.2
+235,Adidas,Adidas Nemeziz 17+ 360 Agility Firm Ground ,90,257,85,soccer-cleats,4.5
+237,Adidas,Adidas Copa 20.1 Firm Ground ,81,214,101,soccer-cleats,4.3
+238,Adidas,Adidas Copa 19.3 Firm Ground ,80,1410,40,soccer-cleats,4.3
+239,Adidas,Adidas Copa 19.4 Firm Ground ,84,2829,61,soccer-cleats,4.3
+240,Adidas,Adidas Nemeziz Messi 19.1 Firm Ground ,86,77,80,soccer-cleats,4.6
+241,Adidas,Adidas Copa Sense+ FG ,82,94,145,soccer-cleats,4.3
+243,Adidas,Adidas Predator Mutator 20.1 Firm Ground ,75,372,126,soccer-cleats,4.0
+244,Adidas,Adidas Nemeziz 19.3 Indoor ,86,1784,59,soccer-cleats,4.5
+247,Adidas,Adidas Predator Edge+ FG ,87,57,159,soccer-cleats,4.6
+248,Adidas,Adidas Predator Freak.1 FG New ,80,495,250,soccer-cleats,4.2
+249,Adidas,Adidas Predator Freak+ ,89,326,190,soccer-cleats,4.5
+250,Adidas,Adidas Predator 20.2 Firm Ground ,83,2068,75,soccer-cleats,4.4
+251,Adidas,Adidas Adizero Primeknit ,89,757,65,football-cleats,4.5
+252,Adidas,Adidas Adizero Scorch New ,87,204,60,football-cleats,4.4
+253,Adidas,Adidas Adizero 11.0 ,90,123,167,football-cleats,4.5
+254,Adidas,Adidas Adizero 8.0 ,92,3392,42,football-cleats,4.6
+255,Adidas,Adidas Freak Ultra ,84,188,45,football-cleats,4.2
+257,Adidas,Adidas Freak Carbon Mid ,87,1030,80,football-cleats,4.3
+258,Adidas,Adidas Freak Carbon Low ,88,1218,55,football-cleats,4.4
+259,Adidas,Adidas Freak X Carbon Mid ,87,2046,80,football-cleats,4.4
+261,Adidas,Adidas Freak Ultra Primeknit ,84,52,100,football-cleats,4.2
+265,Adidas,Adidas Tech Response ,85,79584,35,golf-shoes,4.6
+266,Adidas,Adidas S2G ,84,10086,49,golf-shoes,4.7
+267,Adidas,Adidas Tour360 XT SL ,92,11358,80,golf-shoes,4.6
+268,Adidas,Adidas ForgeFiber BOA ,90,1146,170,golf-shoes,4.5
+269,Adidas,Adidas ZG21 ,94,3490,48,golf-shoes,4.6
+270,Adidas,Adidas ZG21 BOA ,88,489,110,golf-shoes,4.5
+271,Adidas,Adidas Tour360 22 ,87,649,121,golf-shoes,4.2
+272,Adidas,Adidas CodeChaos BOA ,91,385,110,golf-shoes,4.6
+273,Adidas,Adidas Stan Smith Golf ,88,1311,96,golf-shoes,4.5
+274,Adidas,Adidas Tech Response 2.0 ,84,3334,38,golf-shoes,4.7
+275,Adidas,Adidas Samba Golf New ,80,7,120,golf-shoes,4.6
+276,Adidas,Adidas CodeChaos 22 New ,93,254,98,golf-shoes,4.6
+277,Adidas,Adidas Adipure ,84,278,90,golf-shoes,4.1
+278,Adidas,Adidas Tour360 XT ,91,3465,70,golf-shoes,4.7
+279,Adidas,Adidas CP Traxion BOA ,87,1176,55,golf-shoes,4.5
+280,Adidas,Adidas Tour360 Knit ,88,769,52,golf-shoes,4.5
+282,Adidas,Adidas Tour360 XT SL BOA ,82,288,177,golf-shoes,4.5
+283,Adidas,Adidas CodeChaos ,89,5616,72,golf-shoes,4.6
+284,Adidas,Adidas Adicross Bounce ,87,2449,55,golf-shoes,4.5
+285,Adidas,Adidas Crossknit Boost ,84,470,130,golf-shoes,4.3
+286,Adidas,Adidas Adicross Bounce 2.0 ,81,2277,55,golf-shoes,4.5
+287,Adidas,Adidas CP Traxion Spikeless ,88,2894,65,golf-shoes,4.6
+288,Adidas,Adidas Tour360 XT Primeknit ,92,2370,113,golf-shoes,4.6
+290,Adidas,Five Ten Freerider DLX ,85,410,63,cycling-shoes,4.6
+291,Adidas,Adidas Adizero Boston 10 ,85,1896,57,running-shoes,4.3
+292,Adidas,Adidas Terrex Two Ultra Parley ,85,740,72,running-shoes,4.4
+293,Adidas,Adidas Pureboost Go ,90,21890,45,running-shoes,4.5
+294,Adidas,Adidas Adizero Boston Boost 6 ,89,2221,80,running-shoes,4.4
+295,Adidas,Adidas Adizero Prime X ,90,278,170,running-shoes,4.6
+297,Adidas,Adidas Ultraboost 21 Lab test ,89,40622,50,running-shoes,4.6
+298,Adidas,Adidas Adizero Adios 6 ,87,1146,34,running-shoes,4.4
+299,Adidas,Adidas Alphabounce RC ,79,3063,130,running-shoes,4.4
+300,Adidas,Adidas Energy Boost 3 ,84,1796,80,running-shoes,4.4
+301,Adidas,Adidas Ultraboost 19 ,91,83778,100,running-shoes,4.7
+302,Adidas,Adidas Adizero Adios Pro 3 ,91,191,175,running-shoes,4.6
+303,Adidas,Adidas Ultraboost PB ,90,5167,70,running-shoes,4.5
+304,Adidas,Adidas Terrex Agravic XT ,79,200,105,running-shoes,4.4
+305,Adidas,Adidas Solarboost 3 ,87,352,160,running-shoes,4.3
+306,Adidas,Adidas Rockadia Trail 3 ,78,5270,58,running-shoes,4.3
+307,Adidas,Adidas Nova Flow ,79,7439,38,running-shoes,4.4
+308,Adidas,Adidas Terrex Speed Ultra Lab test ,90,1098,70,running-shoes,4.5
+309,Adidas,Adidas 4D Fusio ,76,1096,105,running-shoes,4.2
+310,Adidas,Adidas Ultraboost 5.0 DNA ,91,14641,100,running-shoes,4.7
+311,Adidas,Adidas Terrex Agravic Speed ,85,955,83,running-shoes,4.2
+312,Adidas,Adidas Response Super 2.0 ,80,4623,47,running-shoes,4.4
+313,Adidas,Adidas Adizero RC 2 ,84,1065,104,running-shoes,4.4
+314,Adidas,Adidas Alphabounce AMS ,83,361,175,running-shoes,4.4
+315,Adidas,Adidas Edge Runner ,79,221,90,running-shoes,4.4
+316,Adidas,Adidas Pureboost 21 ,80,1176,37,running-shoes,4.5
+317,Adidas,Adidas Solar Glide ,88,10388,51,running-shoes,4.4
+318,Adidas,Adidas Terrex Tracerocker ,86,3354,57,running-shoes,4.4
+319,Adidas,Adidas Solar Boost ST 19 ,84,1891,95,running-shoes,4.5
+320,Adidas,Adidas Adizero Takumi Sen 8 ,88,190,120,running-shoes,4.5
+322,Adidas,Adidas NMD_R1 ,92,181058,45,sneakers,4.6
+323,Adidas,Adidas Rivalry RM Low ,91,138,65,sneakers,4.6
+324,Adidas,Adidas NMD_R2 Primeknit ,88,4255,80,sneakers,4.4
+325,Adidas,Adidas SL 7600 ,79,36,35,sneakers,4.4
+326,Adidas,Adidas NMD_TS1 Primeknit ,92,2389,139,sneakers,4.6
+327,Adidas,Adidas NMD_CS2 Primeknit ,85,1024,90,sneakers,4.3
+328,Adidas,Adidas NMD_XR1 Primeknit ,88,2651,120,sneakers,4.4
+329,Adidas,Adidas AW Run Mid ,83,29,250,sneakers,4.6
+330,Adidas,Adidas Torsion TRDC ,68,20,50,sneakers,3.8
+331,Adidas,Adidas Ozweego TR ,84,24,60,sneakers,4.7
+332,Adidas,Adidas ZX 1K Boost ,83,3178,34,sneakers,4.1
+333,Adidas,Adidas Torsion Comp ,82,97,50,sneakers,4.1
+334,Adidas,Adidas Ozweego Pure ,93,1277,70,sneakers,4.6
+335,Adidas,Adidas POD-S3.2 ML ,83,10,65,sneakers,4.6
+336,Adidas,Adidas Ultra Tech  ,90,265,30,sneakers,4.5
+337,Adidas,Adidas NMD_Racer Primeknit ,90,506,50,sneakers,4.5
+338,Adidas,Adidas EQT Gazelle ,88,924,35,sneakers,4.4
+340,Adidas,Adidas Deerupt S ,90,1076,115,sneakers,4.5
+341,Adidas,Adidas Busenitz Pure Boost ,87,124,70,sneakers,4.3
+342,Adidas,Adidas Yung-1 Trail ,90,69,65,sneakers,4.5
+343,Adidas,Adidas ZX Flux ADV Asymmetrical ,92,128,80,sneakers,4.6
+344,Adidas,Adidas EQT Support SK Primeknit ,91,216,62,sneakers,4.5
+345,Adidas,Adidas Ozweego ,95,70048,45,sneakers,4.8
+348,Adidas,Adidas Team Court ,91,3952,33,sneakers,4.5
+349,Adidas,Adidas Yeezy 350 Boost v2 ,88,6488,245,sneakers,4.4
+350,Adidas,Adidas NMD_R1 STLT Primeknit ,92,17414,55,sneakers,4.6
+352,Adidas,Adidas Dame 5 ,90,1674,35,basketball-shoes,4.5
+353,Adidas,Adidas Dame 6 ,88,1297,37,basketball-shoes,4.6
+354,Adidas,Adidas Dame 4 ,91,691,400,basketball-shoes,4.5
+355,Adidas,Adidas D Rose 8 ,89,205,80,basketball-shoes,4.4
+357,Adidas,Adidas D Rose 10 ,86,153,50,basketball-shoes,4.4
+358,Adidas,Adidas Rise Up 2 ,80,257,65,basketball-shoes,4.4
+359,Adidas,Adidas Crazy 1 ,81,155,70,basketball-shoes,4.4
+360,Adidas,Adidas Crazy 8 ,86,494,200,basketball-shoes,4.4
+364,Adidas,Adidas NXT LVL SPD V ,78,104,130,basketball-shoes,4.2
+365,Adidas,Adidas Own The Game ,81,4959,56,basketball-shoes,4.4
+366,Adidas,Adidas Crazy BYW X ,86,129,99,basketball-shoes,4.2
+367,Adidas,Adidas Light Em Up 2 ,84,448,180,basketball-shoes,4.3
+368,Adidas,Adidas Pro Model 2G ,91,3172,35,basketball-shoes,4.6
+369,Adidas,Adidas D Rose 773 III ,82,924,63,basketball-shoes,4.4
+370,Adidas,Adidas N3xt L3v3l ,88,568,40,basketball-shoes,4.4
+371,Adidas,Adidas Pro Next 2019 ,84,2584,70,basketball-shoes,4.6
+372,Adidas,Adidas Harden Vol 3 ,91,653,65,basketball-shoes,4.6
+373,Adidas,Adidas Harden B/E 3 ,83,1708,27,basketball-shoes,4.5
+374,Adidas,Adidas Harden B/E ,88,138,30,basketball-shoes,4.3
+375,Adidas,Adidas Pro Vision ,83,1726,30,basketball-shoes,4.3
+376,Adidas,Adidas Harden B/E 2 ,85,460,50,basketball-shoes,4.5
+377,Adidas,Adidas Mad Bounce ,88,360,169,basketball-shoes,4.5
+378,Adidas,Adidas Harden Vol. 4 ,89,1411,45,basketball-shoes,4.5
+379,Adidas,Adidas Harden Vol. 2 ,92,983,350,basketball-shoes,4.6
+380,Adidas,Adidas Harden Vol. 1 ,88,375,50,basketball-shoes,4.4
+381,Adidas,Adidas Predator Pulse Firm Ground ,83,25,240,soccer-cleats,4.7
+382,Adidas,Adidas Predator 20.3 Firm Ground ,85,14353,40,soccer-cleats,4.5
+383,Adidas,Adidas X Ghosted+ Firm Ground ,58,21,140,soccer-cleats,3.4
+387,Adidas,Adidas Samba Classic ,91,50562,56,soccer-cleats,4.5
+388,Adidas,Adidas X Ghosted.2 Firm Ground ,81,662,43,soccer-cleats,4.3
+389,Adidas,Adidas X Speedflow+ FG ,91,95,275,soccer-cleats,4.7
+390,Adidas,Adidas Top Sala ,86,202,114,soccer-cleats,4.5
+391,Adidas,Adidas World Cup ,85,1423,98,soccer-cleats,4.5
+393,Adidas,Adidas Super Sala ,83,1416,80,soccer-cleats,4.2
+394,Adidas,Adidas Copa Super ,82,1618,50,soccer-cleats,4.3
+396,Adidas,Adidas Copa 19.3 Turf ,81,825,85,soccer-cleats,4.3
+399,Adidas,Adidas X 19.3 Indoor ,82,695,46,soccer-cleats,4.4
+402,Adidas,Adidas Mundial Team ,91,19544,75,soccer-cleats,4.6
+403,Adidas,Adidas Mundial Goal ,91,4622,83,soccer-cleats,4.6
+404,Adidas,Adidas X Tango 18.3 Turf  ,80,834,45,soccer-cleats,4.3
+405,Adidas,Adidas X 19+ Firm Ground ,81,43,91,soccer-cleats,4.8
+407,Adidas,Adidas X 19.3 Firm Ground ,87,2139,40,soccer-cleats,4.5
+408,Adidas,Adidas X 18.1 Firm Ground ,85,2252,160,soccer-cleats,4.3
+409,Adidas,Adidas X 17.1 Soft Ground ,78,199,70,soccer-cleats,4.2
+410,Adidas,Adidas X 18.3 Firm Ground ,85,2164,65,soccer-cleats,4.3
+412,Adidas,Adidas Adizero Adios Pro ,95,88,135,running-shoes,4.9
+414,Adidas,Adidas Alphabounce Parley ,75,222,103,running-shoes,4.2
+415,Adidas,Adidas Adizero Prime LTD ,82,312,45,running-shoes,4.2
+417,Adidas,Adidas Adizero Boston 11 New ,87,126,82,running-shoes,4.5
+418,Adidas,Adidas Duramo 8 ,79,9082,40,running-shoes,4.2
+419,Adidas,Adidas Duramo 6 ,84,1551,65,running-shoes,4.4
+420,Adidas,Adidas Racer TR21 ,88,21111,40,running-shoes,4.5
+421,Adidas,Adidas Terrex Agravic ,84,2971,79,running-shoes,4.2
+423,Adidas,Adidas Kanadia 8 ,83,938,70,running-shoes,4.2
+424,Adidas,Adidas Terrex Agravic Flow ,87,2047,45,running-shoes,4.5
+426,Adidas,Adidas Terrex Agravic XT GTX ,84,544,170,running-shoes,4.4
+427,Adidas,Adidas Ultraboost Summer.RDY ,89,769,70,running-shoes,4.6
+428,Adidas,Adidas Alphabounce ,86,4283,45,running-shoes,4.4
+429,Adidas,Adidas Adizero Prime Parley ,86,284,63,running-shoes,4.4
+431,Adidas,Adidas Alphabounce Instinct ,88,2577,35,running-shoes,4.5
+432,Adidas,Adidas Galaxy 4 ,81,42342,100,running-shoes,4.5
+433,Adidas,Adidas Senseboost Go Winter ,74,7,45,running-shoes,4.6
+436,Adidas,Adidas Aerobounce 2 ,80,1683,45,running-shoes,4.4
+437,Adidas,Adidas EQ19 ,81,3935,85,running-shoes,4.5
+438,Adidas,Adidas Ultraboost 2.0 ,80,36,60,running-shoes,4.4
+439,Adidas,Adidas Terrex Two BOA ,85,745,140,running-shoes,4.3
+440,Adidas,Adidas Lite Racer BYD 2.0 ,80,9768,36,running-shoes,4.5
+441,Adidas,Adidas Tubular Dusk ,89,3627,50,sneakers,4.4
+443,Adidas,Adidas Forum 84 Low ,96,431,53,sneakers,4.8
+444,Adidas,Adidas Tyshawn ,90,165,40,sneakers,4.5
+445,Adidas,Adidas Samba Super ,92,8946,182,sneakers,4.6
+446,Adidas,Adidas NMD_XR1 ,86,1223,50,sneakers,4.3
+447,Adidas,Adidas ZX 2K Boost ,93,4478,50,sneakers,4.7
+449,Adidas,Adidas Response CL ,83,5,148,sneakers,4.6
+450,Adidas,Adidas Tubular Instinct ,89,133,26,sneakers,4.5
+451,Adidas,Adidas Yeezy Boost 700 ,85,214,335,sneakers,4.2
+452,Adidas,Adidas Kaptir Super ,88,9302,40,sneakers,4.4
+453,Adidas,Adidas Tubular Nova Primeknit ,88,1166,85,sneakers,4.4
+454,Adidas,Adidas EQT Support ADV Primeknit ,86,876,60,sneakers,4.3
+455,Adidas,Adidas Ozweego Celox ,96,1880,80,sneakers,4.8
+457,Adidas,Adidas Sleek Super ,86,2619,50,sneakers,4.3
+459,Adidas,Adidas Pharrell Williams Human Race NMD ,94,7722,98,sneakers,4.7
+460,Adidas,Adidas Ozweego Plus ,86,65,65,sneakers,4.3
+461,Adidas,Adidas Swift Run X ,89,10449,40,sneakers,4.5
+462,Adidas,Adidas Hoops 2.0 ,91,47233,75,sneakers,4.5
+464,Adidas,Adidas Gazelle Primeknit ,85,156,50,sneakers,4.2
+465,Adidas,Adidas Run 70s  ,87,3896,60,sneakers,4.3
+466,Adidas,Adidas Yung-96 ,89,11384,29,sneakers,4.5
+467,Adidas,Adidas ZX Flux Xeno ,80,167,60,sneakers,4.0
+468,Adidas,Adidas Tubular Invader ,91,899,44,sneakers,4.5
+469,Adidas,Adidas Sobakov P94 ,90,336,85,sneakers,4.5
+470,Adidas,Adidas Campus 80S ,86,701,45,sneakers,4.3
+471,Adidas,Adidas Pro Spark 2018 ,87,779,129,basketball-shoes,4.6
+472,Adidas,Adidas Pro Bounce 2018 ,86,1350,70,basketball-shoes,4.5
+473,Adidas,Adidas Pro Bounce 2019 ,83,1999,34,basketball-shoes,4.4
+474,Adidas,Adidas Crazy Shadow 2 ,88,52,69,basketball-shoes,4.4
+475,Adidas,Adidas Crazy Bounce ,79,205,65,basketball-shoes,4.2
+476,Adidas,Adidas Mad Bounce 2018 ,82,151,45,basketball-shoes,4.4
+477,Adidas,Adidas Fusion Storm ,75,170,47,basketball-shoes,4.1
+478,Adidas,Adidas Pro Spark 2018 Low ,80,273,45,basketball-shoes,4.4
+479,Adidas,Adidas D.O.N. Issue #1 ,87,2457,35,basketball-shoes,4.5
+480,Adidas,Adidas Marquee Boost ,88,1936,35,basketball-shoes,4.4
+481,Adidas,Adidas Pro Bounce 2018 Low ,88,1865,50,basketball-shoes,4.5
+482,Adidas,Adidas Pro Bounce 2019 Low ,81,1117,40,basketball-shoes,4.4
+483,Adidas,Adidas Posterize ,76,42,45,basketball-shoes,4.1
+484,Adidas,Adidas Harden Vol. 2 LS Lace ,85,293,140,basketball-shoes,4.6
+485,Adidas,Adidas Marquee Boost Low ,89,6290,40,basketball-shoes,4.3
+486,Adidas,Adidas Adizero Rose 1 Retro ,84,23,100,basketball-shoes,4.8
+487,Adidas,Adidas Pro Adversary  ,79,513,65,basketball-shoes,4.3
+488,Adidas,Adidas Harden Stepback ,85,15412,70,basketball-shoes,4.4
+489,Adidas,Adidas Harden Vol. 2 LS Buckle ,77,225,50,basketball-shoes,4.1
+490,Adidas,Adidas Streetfire ,82,652,129,basketball-shoes,4.4
+491,Adidas,Adidas Pro Adversary Low ,81,222,58,basketball-shoes,4.4
+492,Adidas,Adidas Crazyquick 3 ,74,10,80,basketball-shoes,4.3
+493,Adidas,Adidas Crazy Explosive ,90,925,180,basketball-shoes,4.4
+497,Adidas,Adidas T-Mac Millennium ,88,356,65,basketball-shoes,4.6
+498,Adidas,Adidas Pro Bounce Madness Low 2019 ,83,167,40,basketball-shoes,4.3
+499,Adidas,Adidas Crazy Explosive 2017 ,81,966,45,basketball-shoes,4.1
+500,Adidas,Adidas CrazyLight Boost 2016 ,90,244,80,basketball-shoes,4.4
+502,Adidas,Adidas X 19.2 Firm Ground ,86,852,62,soccer-cleats,4.5
+503,Adidas,Adidas X 18.2 Firm Ground ,82,522,125,soccer-cleats,4.4
+504,Adidas,Adidas Copa 19+ Firm Ground ,89,107,120,soccer-cleats,4.4
+505,Adidas,Adidas X Tango 18.3 Indoor ,77,250,100,soccer-cleats,4.1
+506,Adidas,Adidas Copa 20.3 Sala Indoor ,80,950,45,soccer-cleats,4.2
+508,Adidas,Adidas Nemeziz 19.1 Shoes ,80,22,75,soccer-cleats,4.7
+509,Adidas,Adidas Ace Tango 17.3 Indoor ,79,205,50,soccer-cleats,4.2
+510,Adidas,Adidas Copa 17.1 Firm Ground ,83,201,115,soccer-cleats,4.3
+512,Adidas,Adidas Predator 19.3 Turf ,80,2233,50,soccer-cleats,4.3
+514,Adidas,Adidas Predator 19.4 Sala ,77,1165,55,soccer-cleats,4.1
+515,Adidas,Adidas Predator 19+ shoes ,82,77,254,soccer-cleats,4.3
+517,Adidas,Adidas Goletto 6 Firm Ground ,86,3294,75,soccer-cleats,4.6
+518,Adidas,Adidas Predator 20.3 Shoes ,79,18,35,soccer-cleats,4.7
+519,Adidas,Adidas Copa Gloro 19.2 Firm Ground ,86,3449,73,soccer-cleats,4.4
+521,Adidas,Adidas Nemeziz 18+ Firm Ground ,80,66,250,soccer-cleats,3.9
+523,Adidas,Adidas Predator 18+ Firm Ground ,89,284,110,soccer-cleats,4.4
+524,Adidas,Adidas Nemeziz 19.3 Firm Ground ,85,6380,51,soccer-cleats,4.5
+525,Adidas,Adidas Predator 18+ Soft Ground ,80,29,160,soccer-cleats,4.7
+526,Adidas,Adidas Nemeziz 18.1 Firm Ground ,87,561,129,soccer-cleats,4.4
+527,Adidas,Adidas Nemeziz 19.2 Firm Ground ,87,1139,64,soccer-cleats,4.4
+528,Adidas,Adidas Predator 19+ Firm Ground ,86,801,185,soccer-cleats,4.4
+531,Adidas,Adidas Questar TND ,79,2546,50,running-shoes,4.4
+533,Adidas,Adidas Energy Falcon ,82,472,42,running-shoes,4.5
+534,Adidas,Adidas Ultraboost S&L ,81,3066,45,running-shoes,4.5
+535,Adidas,Adidas Ultraboost 4.0 DNA ,90,13914,66,running-shoes,4.6
+536,Adidas,Adidas Terrex Two Parley ,85,820,50,running-shoes,4.3
+537,Adidas,Adidas Ultraboost ,89,63994,45,running-shoes,4.6
+538,Adidas,Adidas 4D ,84,115,100,running-shoes,4.5
+540,Adidas,Adidas Pureboost ZG ,83,496,60,running-shoes,4.1
+541,Adidas,Adidas Solar Boost ,90,11757,70,running-shoes,4.5
+542,Adidas,Adidas Climacool Boost New ,81,5,168,running-shoes,5.0
+543,Adidas,Adidas Solar Ride ,80,1479,60,running-shoes,4.4
+544,Adidas,Adidas Ultraboost ST ,86,3747,90,running-shoes,4.4
+545,Adidas,Adidas Solar Drive 19 ,82,10272,65,running-shoes,4.4
+546,Adidas,Adidas Terrex Soulstride ,84,730,41,running-shoes,4.5
+547,Adidas,Adidas Terrex Agravic Flow 2 New ,85,166,60,running-shoes,4.3
+548,Adidas,Adidas Questar ,83,12628,39,running-shoes,4.5
+549,Adidas,Adidas Adistar ,87,347,56,running-shoes,4.4
+550,Adidas,Adidas Terrex Tracerocker GTX ,78,5159,63,running-shoes,4.4
+551,Adidas,Adidas SL20.2 ,84,652,47,running-shoes,4.2
+552,Adidas,Adidas SL20 ,89,3551,40,running-shoes,4.4
+553,Adidas,Adidas Alphabounce Beyond 2.0 ,87,1146,51,running-shoes,4.6
+554,Adidas,Adidas Pulseboost HD ,87,7152,37,running-shoes,4.5
+555,Adidas,Adidas SL20.3 ,85,256,42,running-shoes,4.4
+556,Adidas,Adidas Edge Flex ,81,2090,70,running-shoes,4.5
+557,Adidas,Adidas Adizero Prime ,80,652,44,running-shoes,4.2
+558,Adidas,Adidas Terrex Swift R GTX ,84,2129,113,running-shoes,4.3
+559,Adidas,Adidas Terrex Two ,78,1271,62,running-shoes,4.3
+560,Adidas,Adidas Solar Boost 19 ,90,10108,70,running-shoes,4.5
+561,Adidas,Adidas Busenitz Lab test ,91,6044,55,sneakers,4.5
+562,Adidas,Adidas Day Jogger ,73,31,45,sneakers,4.0
+563,Adidas,Adidas X9000L2 ,87,1428,34,sneakers,4.4
+564,Adidas,Adidas Campus ADV ,90,522,48,sneakers,4.5
+565,Adidas,Adidas Superstar 80s ,89,5086,104,sneakers,4.4
+566,Adidas,Adidas Forum 84 Low ADV ,86,36,100,sneakers,4.8
+567,Adidas,Adidas Retropy P9 ,90,6,128,sneakers,5.0
+568,Adidas,Adidas SL 72 ,92,3755,60,sneakers,4.6
+571,Adidas,Adidas LXCON ,86,240,35,sneakers,4.3
+572,Adidas,Adidas LXCON 94 ,83,826,40,sneakers,4.2
+573,Adidas,Adidas Lite Racer CLN ,91,24937,47,sneakers,4.5
+575,Adidas,Adidas Tubular Runner ,81,1215,49,sneakers,4.1
+576,Adidas,Adidas Cloudfoam Advantage ,90,39500,62,sneakers,4.5
+578,Adidas,Adidas ZX 500 ,95,2684,125,sneakers,4.8
+579,Adidas,Adidas POD-S3.1 ,90,7633,45,sneakers,4.5
+580,Adidas,Adidas Stan Smith Vulc ,92,2802,65,sneakers,4.6
+583,Adidas,Adidas x Raf Simons Stan Smith ,85,31,175,sneakers,4.7
+584,Adidas,Adidas ZX 700 HD ,87,3931,54,sneakers,4.3
+585,Adidas,Adidas Samba ,91,67465,54,sneakers,4.5
+586,Adidas,Adidas Swift Run ,91,71687,45,sneakers,4.5
+587,Adidas,Adidas Superstar ADV ,94,10618,90,sneakers,4.7
+588,Adidas,Adidas Superstan ,71,26,55,sneakers,3.9
+590,Adidas,Adidas Falcon ,90,89408,54,sneakers,4.5
+591,Adidas,Adidas Crazylight Boost 2018 ,80,187,35,basketball-shoes,4.0
+592,Adidas,Adidas CrazyLight Boost 2.5 Low ,79,207,300,basketball-shoes,4.2
+593,Adidas,Adidas Explosive Bounce 2018 ,88,353,65,basketball-shoes,4.5
+594,Adidas,Adidas Harden Vol. 1 Primeknit ,85,596,400,basketball-shoes,4.4
+599,Adidas,Adidas Predator Tango 18.3 Turf ,82,1052,40,soccer-cleats,4.3
+603,Adidas,Adidas Nemeziz Tango 17.4 Indoor ,78,60,80,soccer-cleats,3.9
+604,Adidas,Adidas Nemeziz 17.1 Soft Ground ,74,89,100,soccer-cleats,3.9
+605,Adidas,Adidas Predator 18.3 Firm Ground ,84,3500,47,soccer-cleats,4.3
+607,Adidas,Adidas Predator 18.2 Firm Ground ,85,650,55,soccer-cleats,4.3
+608,Adidas,Adidas Predator 19.3 Firm Ground ,83,7814,55,soccer-cleats,4.4
+609,Adidas,Adidas Predator 19.2 Firm Ground ,86,964,90,soccer-cleats,4.6
+610,Adidas,Adidas Predator 18.1 Firm Ground ,87,726,75,soccer-cleats,4.4
+613,Adidas,Adidas Predator Tango 18.4 Indoor ,76,342,70,soccer-cleats,4.1
+617,Adidas,Adidas Nemeziz Messi 18.1 Firm Ground ,89,113,100,soccer-cleats,4.7
+621,Adidas,Adidas Nemeziz Tango 18.1 Trainers ,86,171,85,soccer-cleats,4.6
+624,Adidas,Adidas Predator Tango 18+ Trainers ,89,167,100,soccer-cleats,4.6
+625,Adidas,Adidas Predator Tango 18.1 Trainers ,83,361,40,soccer-cleats,4.4
+627,Adidas,Adidas Predator Mutator 20+ firm ground ,80,46,234,soccer-cleats,4.3
+628,Adidas,Adidas Ace 17+ Purecontrol Firm Ground ,85,106,450,soccer-cleats,4.2
+629,Adidas,Adidas Adizero Sub 2 ,90,6955,70,running-shoes,4.5
+630,Adidas,Adidas Aerobounce PR ,83,1432,55,running-shoes,4.4
+633,Adidas,Adidas Solar Blaze ,78,1377,50,running-shoes,4.3
+634,Adidas,Adidas Solar Drive ST ,82,679,50,running-shoes,4.3
+636,Adidas,Adidas Pureboost ,88,3238,79,running-shoes,4.4
+637,Adidas,Adidas Fluidstreet ,82,3925,45,running-shoes,4.5
+638,Adidas,Adidas Ultraboost Uncaged ,89,3400,80,running-shoes,4.6
+639,Adidas,Adidas Alphaboost ,87,2809,50,running-shoes,4.6
+641,Adidas,Adidas Pureboost RBL ,87,595,60,running-shoes,4.5
+642,Adidas,Adidas Alphabounce Beyond ,89,8869,109,running-shoes,4.5
+643,Adidas,Adidas Supernova 2 ,88,501,46,running-shoes,4.5
+645,Adidas,Adidas 4DFWD 2 New ,86,51,160,running-shoes,4.8
+646,Adidas,Adidas Alphatorsion ,83,2808,36,running-shoes,4.2
+647,Adidas,Adidas Supernova+ Lab test ,84,1000,49,running-shoes,4.4
+648,Adidas,Adidas Alphabounce EM ,84,4365,110,running-shoes,4.5
+649,Adidas,Adidas Alphabounce+ ,82,11911,50,running-shoes,4.6
+650,Adidas,Adidas Climacool Ventania ,80,150,40,running-shoes,4.4
+651,Adidas,Adidas Duramo 10 Lab test ,87,7156,43,running-shoes,4.5
+652,Adidas,Adidas Senseboost Go ,86,6237,36,running-shoes,4.4
+653,Adidas,Adidas Cosmic 2.0 SL ,83,5881,60,running-shoes,4.5
+654,Adidas,Adidas Pulseboost HD LTD ,81,194,55,running-shoes,4.5
+655,Adidas,Adidas Madoru 2.0 ,79,150,39,running-shoes,4.3
+656,Adidas,Adidas Pulseboost HD Winter ,82,1272,50,running-shoes,4.4
+657,Adidas,Adidas Rockadia Trail ,87,12621,100,running-shoes,4.5
+659,Adidas,Adidas Yung-1 ,92,2964,49,sneakers,4.6
+660,Adidas,Adidas Superstar 2 ,93,18656,70,sneakers,4.7
+661,Adidas,Adidas Samba OG ,93,25392,100,sneakers,4.7
+664,Adidas,Adidas Stan Smith Adicolor ,93,5958,250,sneakers,4.6
+666,Adidas,Adidas Superstar OG ,93,11543,80,sneakers,4.6
+667,Adidas,Adidas Superstar MG ,86,9,85,sneakers,4.8
+668,Adidas,Adidas Spezial ,94,7671,55,sneakers,4.7
+669,Adidas,Adidas FYW S-97 ,81,281,30,sneakers,4.1
+670,Adidas,Adidas ZX 2K Boost 2.0 New ,93,5271,101,sneakers,4.7
+671,Adidas,Adidas Hoops 2.0 Mid ,91,47727,50,sneakers,4.6
+672,Adidas,Adidas NMD S1 New ,90,9,211,sneakers,5.0
+675,Adidas,Adidas U_Path Run ,92,69368,32,sneakers,4.6
+676,Adidas,Adidas ZX Torsion ,90,538,45,sneakers,4.5
+677,Adidas,Adidas Gazelle OG ,95,14311,75,sneakers,4.7
+678,Adidas,Adidas Superstar Suede ,92,4810,113,sneakers,4.6
+679,Adidas,Adidas Superstar 80s Recon ,86,190,40,sneakers,4.3
+680,Adidas,Adidas ZX 10000 ,94,185,70,sneakers,4.7
+681,Adidas,Adidas Ozelia ,94,9286,41,sneakers,4.7
+683,Adidas,Adidas Lite Racer Adapt 3.0 ,90,60973,36,sneakers,4.5
+684,Adidas,Adidas Ultraboost Web DNA ,94,530,90,sneakers,4.7
+685,Adidas,Adidas Top Ten Hi ,94,6925,40,sneakers,4.7
+686,Adidas,Adidas Court 80s ,89,1173,79,sneakers,4.5
+687,Adidas,Adidas FYW 98 ,75,23,70,sneakers,4.2
+688,Adidas,Adidas EQT Support 93/17 ,88,4825,85,sneakers,4.4
+693,Adidas,Adidas Asweego ,80,3062,68,running-shoes,4.4
+695,Adidas,Adidas 90s Valasion ,74,2326,45,running-shoes,4.1
+696,Adidas,Adidas Runfalcon 2.0 TR ,90,13866,44,running-shoes,4.5
+697,Adidas,Adidas AlphaEdge 4D ,87,337,180,running-shoes,4.4
+698,Adidas,Adidas Runfalcon 2.0 ,83,87033,41,running-shoes,4.6
+699,Adidas,Adidas Supernova ST ,83,1814,65,running-shoes,4.3
+700,Adidas,Adidas Supernova ,89,18914,40,running-shoes,4.5
+701,Adidas,Adidas Ventice ,78,258,35,running-shoes,4.4
+702,Adidas,Adidas Asweerun ,78,5595,70,running-shoes,4.3
+703,Adidas,Adidas Speedmotion ,74,44,60,running-shoes,4.6
+705,Adidas,Adidas EQ21 Run Cold.RDY ,77,1072,45,running-shoes,4.3
+706,Adidas,Adidas Fluidflow ,79,15849,40,running-shoes,4.4
+707,Adidas,Adidas Fluidflow 2.0 ,81,6836,43,running-shoes,4.5
+708,Adidas,Adidas EQ21 ,87,8449,38,running-shoes,4.5
+709,Adidas,Adidas Purebounce+ ,75,5673,58,running-shoes,4.2
+710,Adidas,Adidas Purebounce+ Street ,77,1720,53,running-shoes,4.3
+711,Adidas,Adidas Runfalcon Lab test ,80,103016,60,running-shoes,4.4
+712,Adidas,Adidas Sensebounce+ ,81,7843,45,running-shoes,4.5
+713,Adidas,Adidas Sensebounce+ Street ,79,1464,67,running-shoes,4.4
+714,Adidas,Adidas Edge XT ,79,1243,45,running-shoes,4.4
+715,Adidas,Adidas 4D Run 1.0 ,87,336,90,running-shoes,4.3
+716,Adidas,Adidas ZX 4000 4D ,81,74,90,running-shoes,4.5
+717,Adidas,Adidas Nova Run ,78,1361,40,running-shoes,4.3
+718,Adidas,Adidas Solar Drive ,83,2076,30,running-shoes,4.3
+719,Adidas,Adidas Terrex Speed ,79,815,84,running-shoes,4.2
+720,Adidas,Adidas Edge Gameday ,82,4379,70,running-shoes,4.6
+721,Adidas,Adidas Kanadia Trail ,81,3943,100,running-shoes,4.2
+722,Adidas,Adidas Forum 84 High ,96,201,75,sneakers,4.8
+723,Adidas,Adidas ZX Flux ,92,59157,25,sneakers,4.6
+724,Adidas,Adidas Superstar Laceless ,84,114,45,sneakers,4.2
+725,Adidas,Adidas Forum Mid ,94,8027,27,sneakers,4.7
+726,Adidas,Adidas Forum Low ,95,9912,47,sneakers,4.8
+727,Adidas,Adidas Climacool 1 ,88,2740,34,sneakers,4.4
+728,Adidas,Adidas Busenitz Vintage ,94,55,64,sneakers,4.7
+729,Adidas,Adidas I-5923 ,87,18586,40,sneakers,4.4
+730,Adidas,Adidas Kaptir ,92,32667,40,sneakers,4.6
+731,Adidas,Adidas Swift Run RF ,86,5139,45,sneakers,4.3
+733,Adidas,Adidas ZX Flux Primeknit ,87,511,70,sneakers,4.3
+734,Adidas,Adidas Matchbreak Super ,92,1447,45,sneakers,4.6
+736,Adidas,Adidas X9000L3 ,88,2530,35,sneakers,4.4
+737,Adidas,Adidas Advantage ,91,78179,23,sneakers,4.5
+738,Adidas,Adidas Yeezy 500 ,84,161,260,sneakers,4.2
+739,Adidas,Adidas Retropy F2 ,93,1888,50,sneakers,4.7
+740,Adidas,Adidas Samba Vegan ,93,1567,100,sneakers,4.7
+741,Adidas,Adidas Pharrell Williams Hu Holi NMD MC ,76,27,475,sneakers,4.2
+742,Adidas,Adidas Tubular Doom Sock Primeknit ,88,990,85,sneakers,4.4
+744,Adidas,Adidas VL Court 2.0 ,92,82248,42,sneakers,4.6
+745,Adidas,Adidas Stan Smith Primeknit ,80,645,56,sneakers,4.0
+747,Adidas,Adidas Iniki Runner ,88,6967,105,sneakers,4.4
+748,Adidas,Adidas Gazelle Stitch and Turn ,86,409,80,sneakers,4.3
+749,Adidas,Adidas Pharrell Williams Human Race NMD TR ,95,313,225,sneakers,4.7
+750,Adidas,Adidas Superstar Foundation ,92,158930,50,sneakers,4.6
+751,Adidas,Adidas Strutter ,86,45684,55,sneakers,4.3
+752,Adidas,Adidas Questar Trail ,80,1215,80,running-shoes,4.5
+753,Adidas,Adidas Pureboost DPR ,88,5257,60,running-shoes,4.5
+754,Adidas,Adidas Response Trail ,86,4823,70,running-shoes,4.3
+755,Adidas,Adidas Pureboost LTD ,82,1236,70,running-shoes,4.5
+756,Adidas,Adidas Pureboost Go LTD ,87,583,50,running-shoes,4.4
+757,Adidas,Adidas Pureboost DPR LTD ,83,201,87,running-shoes,4.3
+758,Adidas,Adidas Supernova Trail ,84,847,50,running-shoes,4.4
+759,Adidas,Adidas Ultraboost Mid ,89,662,65,running-shoes,4.6
+760,Adidas,Adidas Pureboost Clima ,88,278,70,running-shoes,4.6
+761,Adidas,Adidas Ultraboost City ,73,34,140,running-shoes,4.5
+762,Adidas,Adidas Futurecraft 4D ,78,255,145,running-shoes,4.3
+763,Adidas,Adidas Ultraboost Clima ,90,2448,100,running-shoes,4.5
+764,Adidas,Adidas Alphabounce RC 2.0 ,81,5422,45,running-shoes,4.5
+765,Adidas,Adidas Ultraboost Parley ,88,2098,60,running-shoes,4.5
+766,Adidas,Adidas Pureboost All Terrain ,85,350,82,running-shoes,4.4
+767,Adidas,Adidas Ultraboost All Terrain ,88,1305,82,running-shoes,4.5
+768,Adidas,Adidas Ultraboost Leather ,83,8,200,running-shoes,4.6
+769,Adidas,Adidas Ultraboost Laceless ,85,1278,138,running-shoes,4.5
+770,Adidas,Adidas Ultraboost Uncaged Parley ,91,592,259,running-shoes,4.8
+771,Adidas,Adidas Ultraboost Multicolor ,88,696,150,running-shoes,4.5
+773,Adidas,Adidas ZX 22 Boost ,93,616,44,sneakers,4.6
+774,Adidas,Adidas Campus ,92,23846,118,sneakers,4.6
+775,Adidas,Adidas Lite Racer Reborn ,89,32497,90,sneakers,4.4
+776,Adidas,Adidas X_PLR S ,93,1346,41,sneakers,4.7
+777,Adidas,Adidas adiFOM Q New ,90,5,120,sneakers,5.0
+778,Adidas,Adidas ZX 700 ,90,5381,80,sneakers,4.5
+779,Adidas,Adidas Micropacer ,81,24,57,sneakers,4.5
+780,Adidas,Adidas Grand Court ,93,600107,28,sneakers,4.6
+782,Adidas,Adidas USA 84 ,92,4918,85,sneakers,4.6
+783,Adidas,Adidas Liberty Cup ,88,240,60,sneakers,4.4
+784,Adidas,Adidas Yeezy Foam Runner ,66,41,255,sneakers,3.7
+785,Adidas,Adidas Busenitz Vulc 2 New ,92,4441,40,sneakers,4.6
+786,Adidas,Adidas Superstar White Mountaineering ,93,82,120,sneakers,4.7
+787,Adidas,Adidas Hamburg ,93,34306,125,sneakers,4.7
+788,Adidas,Adidas Continental 80 Stripes ,91,4723,69,sneakers,4.6
+789,Adidas,Adidas Samoa ,92,17235,55,sneakers,4.6
+790,Adidas,Adidas Stadt ,87,30,80,sneakers,4.8
+793,Adidas,Adidas Sabalo ,90,794,23,sneakers,4.5
+794,Adidas,Adidas Superstar Run-DMC ,83,5,272,sneakers,4.6
+795,Adidas,Adidas EQT Bask ADV ,88,552,96,sneakers,4.4
+796,Adidas,Adidas EQT Support ADV ,86,9985,40,sneakers,4.3
+797,Adidas,Adidas Matchcourt High RX ,88,194,50,sneakers,4.4
+798,Adidas,Adidas Superstar ,93,516654,28,sneakers,4.6
+799,Adidas,Adidas Yeezy Boost 700 MNVN ,67,16,210,sneakers,3.7
+800,Adidas,Adidas Pro Model ,93,38311,40,sneakers,4.7
+801,Adidas,Adidas Stan Smith Lab test ,93,412347,22,sneakers,4.6
+802,Adidas,Adidas Deerupt Runner ,90,13082,60,sneakers,4.5
+803,Adidas,Adidas Gazelle Indoor ,90,224,90,sneakers,4.5
+804,Adidas,Adidas Ozrah ,91,176,84,sneakers,4.5
+805,Adidas,Adidas Gazelle ,94,612067,45,sneakers,4.7
+806,Adidas,Adidas Sobakov ,88,1777,50,sneakers,4.4
+808,Adidas,Adidas Japan ,82,40,80,sneakers,4.5
+810,Adidas,Adidas Top Ten RB New ,95,1050,40,sneakers,4.7
+811,Adidas,Adidas LA Trainer 3 New ,93,72,40,sneakers,4.6
+812,Adidas,Adidas Los Angeles ,88,2247,75,sneakers,4.4
+813,Adidas,Adidas Rivalry Low ,89,10710,32,sneakers,4.5
+814,Adidas,Adidas ZX 8000 LEGO ,83,5,83,sneakers,4.6
+815,Adidas,Adidas Crazychaos ,90,7694,50,sneakers,4.5
+816,Adidas,Adidas Stan Smith H New ,90,5,117,sneakers,5.0
+817,Adidas,Adidas Delpala ,88,1937,27,sneakers,4.4
+818,Adidas,Adidas Court Adapt ,87,5178,68,sneakers,4.4
+820,Adidas,Adidas Kamanda ,84,116,70,sneakers,4.2
+822,Adidas,Adidas Forum Exhibit Low ,94,601,95,sneakers,4.7
+823,Adidas,Adidas Grand Court SE ,93,73015,37,sneakers,4.6
+824,Adidas,Adidas Rod Laver Vintage ,91,183,75,sneakers,4.5
+825,Adidas,Adidas Supercourt RX ,83,98,60,sneakers,4.2
+826,Adidas,Adidas Tubular Shadow ,85,11074,28,sneakers,4.3
+827,Adidas,Adidas Continental Vulc ,91,3957,31,sneakers,4.5
+829,Adidas,Adidas Response Super ,88,10144,50,sneakers,4.4
+831,Adidas,Adidas Superstar Mule ,76,158,85,sneakers,3.8
+832,Adidas,Adidas Matchcourt RX ,89,768,70,sneakers,4.5
+833,Adidas,Adidas Stan Smith Vegan New ,94,17101,50,sneakers,4.7
+835,Adidas,Adidas Court Rallye Slip New ,84,363,37,sneakers,4.2
+836,Adidas,Adidas Frozetic ,93,1112,51,sneakers,4.6
+838,Adidas,Adidas x Prada Superstar ,83,5,500,sneakers,4.6
+839,Adidas,Adidas Pharrell Williams Stan Smith ,84,62,55,sneakers,4.2
+840,Adidas,Adidas Pharrell Williams Campus ,75,62,80,sneakers,3.8
+841,Adidas,Adidas Stan Smith Primeblue New ,90,5,35,sneakers,5.0
+842,Adidas,Adidas ZX 5K Boost New ,95,321,186,sneakers,4.8
+843,Adidas,Adidas Haiwee ,90,3243,35,sneakers,4.5
+845,Adidas,Adidas Streetball ,87,548,60,sneakers,4.3
+846,Adidas,Adidas Entrap Mid ,91,5583,70,sneakers,4.5
+847,Adidas,Adidas Archivo ,87,2111,65,sneakers,4.3
+848,Adidas,Adidas Ultraboost Undftd ,92,1169,160,sneakers,4.6
+849,Adidas,Adidas Nite Jogger ,90,27754,36,sneakers,4.5
+852,Adidas,Adidas Basket Profi ,94,2387,45,sneakers,4.7
+853,Adidas,Adidas Forest Grove ,87,8530,65,sneakers,4.3
+854,Adidas,Adidas Run 90s ,86,3391,50,sneakers,4.3
+855,Adidas,Adidas Geodiver Primeblue ,93,2021,30,sneakers,4.6
+856,Adidas,Adidas Cloudfoam Ultimate ,91,11606,58,sneakers,4.6
+857,Adidas,Adidas Haven ,85,1496,101,sneakers,4.2
+858,Adidas,Adidas Superstar 82 ,83,31,72,sneakers,4.6
+859,Adidas,Adidas Swift Run 22 ,88,3907,36,sneakers,4.4
+860,Adidas,Adidas N-5923 ,90,15908,55,sneakers,4.5
+861,Adidas,Adidas Yeezy Desert Boot Rock ,86,8,323,sneakers,4.8
+862,Adidas,Adidas Supercourt ,91,6851,35,sneakers,4.6
+863,Adidas,Adidas Baara Boots ,80,39,100,sneakers,4.4
+864,Adidas,Adidas LA Trainer ,91,328,50,sneakers,4.5
+865,Adidas,Adidas Superstar Parley New ,87,17,120,sneakers,4.9
+867,Adidas,Adidas Prophere ,89,6820,68,sneakers,4.5
+868,Adidas,Adidas Pharrell Williams SC Premiere ,85,7,90,sneakers,4.7
+869,Adidas,Adidas SC Premiere ,88,453,60,sneakers,4.4
+870,Adidas,Adidas Pharrell Williams Continental 80 ,85,10,110,sneakers,4.7
+871,Adidas,Adidas X_PLR ,91,64939,42,sneakers,4.6
+872,Adidas,Adidas Yeezy 450 ,74,6,240,sneakers,4.1
+873,Adidas,Adidas Multix ,89,6296,29,sneakers,4.4
+874,Adidas,Adidas Superstar Vegan ,95,32678,100,sneakers,4.7
+875,Adidas,Adidas Continental 80 ,90,90214,22,sneakers,4.5
+876,Adidas,Adidas Pharrell Williams Tennis Hu V2 ,68,19,105,sneakers,3.8
+877,Adidas,Adidas Ninja Nite Jogger ,85,316,64,sneakers,4.3
+878,Adidas,Adidas X9000L4 ,90,12615,38,sneakers,4.5
+879,Adidas,Adidas Pharrell Williams Tennis Hu ,91,8149,108,sneakers,4.6
+880,Adidas,Adidas Wales Bonner ,90,5,190,sneakers,5.0
+881,Adidas,Adidas Adimatic New ,81,16,88,sneakers,4.5
+882,Adidas,Adidas Grand Court Alpha ,91,893,42,sneakers,4.6
+884,Adidas,Adidas Postmove ,92,791,70,sneakers,4.6
+887,Adidas,Adidas Breaknet ,85,3395,42,sneakers,4.3
+888,Adidas,Adidas Orketro New ,74,8,160,sneakers,4.1
+889,Adidas,Adidas Oznova New ,88,102,67,sneakers,4.4
+891,Adidas,Adidas Superturf Adventure Sean Wotherspoon New ,90,6,106,sneakers,5.0
+892,Adidas,Adidas 3MC ,89,24330,28,sneakers,4.4
+894,Adidas,Adidas Koln ,75,19,110,sneakers,4.2
+895,Adidas,Adidas ZX 500 RM ,91,369,60,sneakers,4.6
+896,Adidas,Adidas ZX 750 HD ,93,185,35,sneakers,4.6
+897,Adidas,Adidas VS Pace ,90,171704,44,sneakers,4.5
+898,Adidas,Adidas ZX 8000 ,93,614,40,sneakers,4.6
+899,Adidas,Adidas ZX 5000 ,86,8,95,sneakers,4.8
+902,Adidas,Adidas 3MC Vulc ,89,19453,30,sneakers,4.5
+903,Adidas,Adidas City Cup ,89,502,27,sneakers,4.4
+904,Adidas,Adidas New York ,85,143,104,sneakers,4.3
+906,Adidas,Adidas Nizza Hi ,92,536,60,sneakers,4.6
+908,Adidas,Adidas Nizza RF ,87,1355,43,sneakers,4.4
+909,Adidas,Adidas VRX Cup Low ,89,104,50,sneakers,4.5
+910,Adidas,Adidas ZX Flux ADV X ,89,253,92,sneakers,4.4
+911,Adidas,Adidas ZX 452 SPZL ,87,24,60,sneakers,4.8
+912,Adidas,Adidas Daily 3.0 ,93,68910,39,sneakers,4.6
+914,Adidas,Adidas Rod Laver ,87,1490,72,sneakers,4.3
+915,Adidas,Adidas Nebzed ,89,5716,46,sneakers,4.5
+916,Adidas,Adidas Nizza Hi RF ,91,1505,28,sneakers,4.5
+917,Adidas,Adidas Nizza Low ,93,20522,25,sneakers,4.6
+918,Adidas,Adidas Seeley ,92,95371,34,sneakers,4.6
+920,Adidas,Adidas Samba ADV ,89,437,47,sneakers,4.4
+921,Adidas,Adidas Crazy BYW ,92,55105,65,sneakers,4.6
+922,Adidas,Adidas Campus 2 ,84,457,55,sneakers,4.2
+923,Adidas,Adidas Tresc Run ,82,121,40,sneakers,4.1
+925,Adidas,Adidas NMD_C2 ,84,326,70,sneakers,4.2
+926,Adidas,Adidas Yeezy 700 v3 ,88,103,250,sneakers,4.4
+927,Adidas,Adidas Seeley XT ,92,8247,23,sneakers,4.6
+929,Adidas,Adidas Crazy BYW II ,88,129,140,sneakers,4.4
+930,Adidas,Adidas Coast Star ,86,11380,45,sneakers,4.3
+931,Adidas,Adidas Wilsy SPZL ,78,6,50,sneakers,4.3
+933,Adidas,Adidas True Chill ,87,673,70,sneakers,4.4
+934,Adidas,Adidas Kaptir 2.0 ,92,17670,48,sneakers,4.6
+935,Adidas,Adidas Munchen ,92,2125,60,sneakers,4.6
+936,Adidas,Adidas Lacombe ,91,179,60,sneakers,4.6
+937,Adidas,Adidas Tobacco ,91,351,125,sneakers,4.6
+938,Adidas,Adidas Adiease ,92,16728,38,sneakers,4.6
+939,Adidas,Adidas 3ST.004 ,87,262,50,sneakers,4.4
+940,Adidas,Adidas Temper Run ,92,247,30,sneakers,4.6
+942,Adidas,Adidas Bermuda ,87,272,50,sneakers,4.4
+944,Adidas,Adidas ZX Flux Weave ,91,784,55,sneakers,4.5
+945,Adidas,Adidas Palace Pro ,88,8,115,sneakers,4.9
+947,Adidas,Adidas Seeley ADV ,88,119,45,sneakers,4.4
+948,Adidas,Adidas Torsion X ,87,88,50,sneakers,4.3
+949,Adidas,Adidas Nizza Pride ,88,142,64,sneakers,4.4
+950,Adidas,Adidas Lite Racer 2.0 ,90,13493,60,sneakers,4.5
+952,Adidas,Adidas Kamanda 01 ,89,312,70,sneakers,4.4
+953,Adidas,Adidas Lite Racer BYD ,92,18243,36,sneakers,4.6
+954,Adidas,Adidas Yeezy Knit RNR ,90,11,159,sneakers,5.0
+955,Adidas,Adidas Puig Indoor New ,81,32,80,sneakers,4.5
+956,Adidas,Adidas Rivalry RM ,97,62,60,sneakers,4.8
+958,Adidas,Adidas Tyshawn Low ,94,225,85,sneakers,4.7
+959,Adidas,Adidas A.R Trainer ,88,374,40,sneakers,4.4
+960,Adidas,Adidas Ozweego Zip ,90,7,85,sneakers,5.0
+961,Adidas,Adidas Sobakov 2.0 ,88,557,70,sneakers,4.4
+962,Adidas,Adidas Niteball ,92,1881,71,sneakers,4.6
+963,Adidas,Adidas Questar Flow ,91,58362,35,sneakers,4.5
+964,Adidas,Adidas Indoor Super ,91,123,45,sneakers,4.6
+965,Adidas,Adidas Questar Rise ,91,5402,75,sneakers,4.5
+967,Adidas,Adidas Boston Super ,73,19,35,sneakers,4.0
+968,Adidas,Adidas Rivalry High ,78,13,75,sneakers,4.3
+970,Adidas,Adidas Tubular Rise ,86,194,135,sneakers,4.3
+972,Adidas,Adidas New York Arsham ,82,27,99,sneakers,4.6
+973,Adidas,Adidas Busenitz Pro ,91,3846,80,sneakers,4.6
+974,Adidas,Adidas Yeezy 350 V2 CMPCT ,90,12,339,sneakers,5.0
+975,Adidas,Adidas Marathon TR ,91,364,120,sneakers,4.5
+976,Adidas,Adidas Yeezy Boost 700 v2 ,84,63,330,sneakers,4.2
+977,Adidas,Adidas Lite Racer Adapt ,91,75028,40,sneakers,4.6
+978,Adidas,Adidas Montreal 76 ,95,634,88,sneakers,4.8
+979,Adidas,Adidas Stan Smith Recon ,91,93,50,sneakers,4.5
+980,Adidas,Adidas Handball Top ,94,498,80,sneakers,4.7
+982,Adidas,Adidas EQT Cushion ADV ,85,993,90,sneakers,4.3
+984,Adidas,Adidas Temper Run Pride ,86,6,90,sneakers,4.8
+985,Adidas,Adidas Yeezy 450 Sulfur New ,90,5,257,sneakers,5.0
+986,Adidas,Adidas NMD_R2 Summer ,92,5037,84,sneakers,4.6
+987,Adidas,Adidas Gazelle Super ,86,271,100,sneakers,4.3
+988,Adidas,Adidas Lite Racer Adapt 4.0 New ,90,23878,28,sneakers,4.5
+989,Adidas,Adidas Yeezy 500 High Slate ,78,20,313,sneakers,4.3
+990,Adidas,Adidas Marathon Tech ,87,2016,57,sneakers,4.4
+991,Adidas,Adidas Yung-96 Chasm ,87,890,45,sneakers,4.4
+992,Adidas,Adidas Busenitz Vulc ,92,442,45,sneakers,4.6
+993,Adidas,Adidas Phosphere ,89,6937,40,sneakers,4.5
+996,Adidas,Adidas Glenbuck SPZL ,93,185,115,sneakers,4.6
+997,Adidas,Adidas Pusha T Ozweego ,97,63,109,sneakers,4.8
+998,Adidas,Adidas 424 SC Premiere ,86,5,100,sneakers,4.8
+999,Adidas,Adidas NMD_Racer ,92,4777,60,sneakers,4.6
+1000,Adidas,Adidas ZX930XEQT ,90,117,70,sneakers,4.5
+1001,Adidas,Adidas EQT Support 91/18 ,87,510,90,sneakers,4.3
+1002,Adidas,Adidas Americana Hi ,93,652,35,sneakers,4.7
+1003,Adidas,Adidas Seeulater OG ,77,12,70,sneakers,4.3
+1004,Adidas,Adidas NMD_XR1 Winter ,84,288,80,sneakers,4.2
+1005,Adidas,Adidas EQT Support 93/16 ,91,423,110,sneakers,4.6
+1007,Adidas,Adidas Rising StarXR1 ,91,895,70,sneakers,4.6
+1008,Adidas,Adidas Busenitz Vulc RX ,88,193,85,sneakers,4.4
+1009,Adidas,Adidas Swift Run Barrier ,87,128,90,sneakers,4.4
+1010,Adidas,Adidas Yeezy 350 Boost v2 Zebra ,86,889,347,sneakers,4.3
+1011,Adidas,Adidas Americana Low ,90,1052,97,sneakers,4.5
+1012,Adidas,Adidas Lucas Premiere ,92,1294,75,sneakers,4.6
+1013,Adidas,Adidas Munchen Super SPZL ,94,82,70,sneakers,4.7
+1015,Adidas,Adidas Gazelle Vintage ,89,444,65,sneakers,4.4
+1016,Adidas,Adidas Gazelle Leather ,96,11529,75,sneakers,4.8
+1017,Adidas,Adidas F/22 Primeknit ,85,114,115,sneakers,4.2
+1018,Adidas,Adidas Matchcourt ,89,2054,60,sneakers,4.5
+1019,Adidas,Adidas Copa Nationale ,91,322,40,sneakers,4.5
+1020,Adidas,Adidas Dimension Low Top ,90,163,47,sneakers,4.5
+1022,Adidas,Adidas Boston SuperXR1 ,91,627,130,sneakers,4.5
+1024,Adidas,Adidas Lowertree SPZL ,94,76,60,sneakers,4.7
+1025,Adidas,Adidas Seeley Premiere ,90,609,70,sneakers,4.5
+1026,Adidas,Adidas EQT Support Ultra CNY ,94,146,159,sneakers,4.7
+1027,Adidas,Adidas Superstar 80s CNY ,91,1216,80,sneakers,4.5
+1028,Adidas,Adidas Yung-96 Chasm Trail ,88,8,45,sneakers,4.9
+1029,Adidas,Adidas EQT Support Ultra MMW ,69,14,173,sneakers,3.9
+1030,Adidas,Adidas EQT Running Support ,86,360,80,sneakers,4.3
+1031,Adidas,Adidas Tubular Shadow Knit ,88,1206,80,sneakers,4.4
+1033,Adidas,Adidas EQT Support ADV Winter ,88,387,106,sneakers,4.4
+1034,Adidas,Adidas Twinstrike ADV ,93,106,74,sneakers,4.7
+1036,Adidas,Adidas Handball Spezial ,93,31029,219,sneakers,4.7
+1037,Adidas,Adidas Futurepacer ,90,411,120,sneakers,4.5
+1038,Adidas,Adidas Stan Smith Leather Sock ,92,5821,85,sneakers,4.6
+1039,Adidas,Adidas New York Present Arsham ,82,30,90,sneakers,4.5
+1040,Adidas,Adidas Adiease Premiere ,89,552,100,sneakers,4.4
+1041,Adidas,Adidas Tubular X Primeknit ,84,826,160,sneakers,4.2
+1042,Adidas,Adidas Tubular Invader Strap ,84,1952,96,sneakers,4.2
+1043,Adidas,Adidas Crazy 8 ADV Primeknit ,86,410,55,sneakers,4.3
+1044,Adidas,Adidas Crazy 1 ADV Primeknit ,91,239,72,sneakers,4.6
+1045,Adidas,Adidas Cloudfoam Lite Racer ,86,4605,41,sneakers,4.3
+1046,Adidas,Adidas Microbounce T1 ,86,8,75,sneakers,4.8
+1048,Adidas,Adidas 3MC X Beavis and Butthead ,92,207,42,sneakers,4.6
+1052,Adidas,Adidas Tubular Instinct Boost ,85,202,75,sneakers,4.2
+1053,Adidas,Adidas NMD_TS1 Primeknit GTX ,91,366,90,sneakers,4.6
+1054,Adidas,Adidas Originals by AW BBall Shoes ,86,20,155,sneakers,4.8
+1056,Adidas,Adidas Silverbirch SPZL ,85,10,159,sneakers,4.7
+1057,Adidas,Adidas Boston Super Primeknit ,83,13,85,sneakers,4.6
+1058,Adidas,Adidas Tubular Doom Primeknit ,85,1337,60,sneakers,4.3
+1059,Adidas,Adidas EQT Support 93/17 Yuanxiao ,94,410,144,sneakers,4.7
+1060,Adidas,Adidas Yeezy Boost 380 Reflective ,84,30,200,sneakers,4.7
+1061,Adidas,Adidas Pharrell Williams Solar Hu NMD ,85,38,525,sneakers,4.7
+1062,Adidas,Adidas EQT Support Mid ADV Primeknit ,87,1120,50,sneakers,4.4
+1063,Adidas,Adidas Pharrell Williams Nizza Hi RF ,90,6,63,sneakers,5.0
+1065,Adidas,Adidas Lucas Premiere Primeknit ,90,276,65,sneakers,4.5
+1066,Adidas,Adidas Tubular Shadow Primeknit ,81,130,55,sneakers,4.1
+1067,Adidas,Adidas Marathonx5923 ,88,507,55,sneakers,4.4
+1069,Adidas,Adidas Questarstrike ,87,298,97,sneakers,4.4
+1070,Adidas,Adidas Consortium Ultra Boost Lux ,87,11,323,sneakers,4.8
+1071,Adidas,Adidas NMD_CS1 Parley Primeknit ,92,470,130,sneakers,4.6
+1072,Adidas,Adidas MicropacerXR1 ,92,1412,60,sneakers,4.6
+1073,Adidas,Adidas Originals By AW Turnout Bball ,80,7,451,sneakers,4.4
+1074,Adidas,Adidas Pharrell Williams Crazy BYW LVL ,95,582,210,sneakers,4.7
+1077,Adidas,Adidas Busenitz Pure Boost Primeknit ,86,248,99,sneakers,4.3
+1079,Adidas,Adidas CountryxKamanda ,90,146,70,sneakers,4.5
+1080,Adidas,Adidas Twinstrike ADV Stretch Leather ,80,43,130,sneakers,4.4
+1081,Adidas,Reebok Instapump Fury Boost ,88,9,64,sneakers,4.9
+1082,Reebok,Reebok Print Run 3.0 ,82,871,50,running-shoes,4.5
+1083,Reebok,Reebok Floatride Run Fast 2 ,85,1122,38,running-shoes,4.3
+1084,Reebok,Reebok Floatride Run Fast ,89,1079,55,running-shoes,4.4
+1085,Reebok,Reebok Print Lux ,81,79,61,running-shoes,4.5
+1086,Reebok,Reebok Floatride Run ,85,268,90,running-shoes,4.4
+1087,Reebok,Reebok Print Lite Rush ,78,567,50,running-shoes,4.3
+1089,Reebok,Reebok Z Fury Tempo ,71,134,80,running-shoes,3.9
+1090,Reebok,Reebok Floatride Run 2.0 ,85,356,60,running-shoes,4.5
+1091,Reebok,Reebok Floatride Run ULTK ,78,199,72,running-shoes,4.1
+1093,Reebok,Reebok Zigwild Trail 6.0 ,83,8845,56,running-shoes,4.6
+1095,Reebok,Reebok Floatride Energy 4 ,89,142,36,running-shoes,4.5
+1096,Reebok,Reebok Floatride Energy 3 Lab test ,92,1879,58,running-shoes,4.6
+1097,Reebok,Reebok Floatride Run Fast Pro ,87,135,43,running-shoes,4.2
+1098,Reebok,Reebok Floatride Run Panthea ,81,67,43,running-shoes,4.2
+1099,Reebok,Reebok Floatride Run Fast London Pro ,79,50,65,running-shoes,4.4
+1100,Reebok,Reebok Harmony Road 3 ,87,276,72,running-shoes,4.7
+1101,Reebok,Reebok Sole Fury TS ,83,809,64,running-shoes,4.2
+1102,Reebok,Reebok Floatride Run Fast 3 ,72,12,65,running-shoes,4.0
+1103,Reebok,Reebok Harmony Road 3.5 ,83,106,46,running-shoes,4.6
+1104,Reebok,Reebok Floatride Energy X ,90,11,160,running-shoes,5.0
+1105,Reebok,Reebok Forever Floatride Energy ,91,2419,66,running-shoes,4.5
+1106,Reebok,Reebok Floatride Fuel Run ,77,604,41,running-shoes,4.3
+1107,Reebok,Reebok Forever Floatride Energy 2 ,89,5398,41,running-shoes,4.4
+1108,Reebok,Reebok Speedlux 3.0 ,77,493,43,running-shoes,4.3
+1109,Reebok,Reebok Ahary Runner ,71,861,50,running-shoes,4.0
+1110,Reebok,Reebok Runner ,79,436,45,running-shoes,4.4
+1111,Reebok,Reebok Runner 3 ,76,548,43,running-shoes,4.2
+1113,Reebok,Reebok Club C 85 SO ,92,917,56,sneakers,4.6
+1114,Reebok,Reebok NPC II ,89,4505,180,sneakers,4.5
+1115,Reebok,Reebok Club C 1985 TV ,92,3402,85,sneakers,4.6
+1117,Reebok,Reebok Zig Pulse ,89,3440,93,sneakers,4.5
+1118,Reebok,Reebok Club C 85 Lab test ,92,31918,57,sneakers,4.6
+1119,Reebok,Reebok Aztec OG ,91,73,80,sneakers,4.6
+1120,Reebok,Reebok Royal Nylon ,93,10105,48,sneakers,4.6
+1121,Reebok,Reebok Royal Techque T ,86,5054,30,sneakers,4.3
+1125,Reebok,Reebok Workout Mid ,77,115,40,sneakers,3.8
+1126,Reebok,Reebok Torch Hex ,88,72,40,sneakers,4.4
+1129,Reebok,Reebok Royal Pervader ,84,1616,39,sneakers,4.2
+1132,Reebok,Reebok Zoku Runner Ultraknit IS ,79,41,120,sneakers,4.4
+1133,Reebok,Reebok Club C Legacy ,89,115,70,sneakers,4.5
+1134,Reebok,Reebok Workout Plus ,89,49098,40,sneakers,4.4
+1135,Reebok,Reebok Rivyx Ripple ,73,38,78,sneakers,4.1
+1136,Reebok,Reebok Aztrek 93 ,90,310,33,sneakers,4.5
+1137,Reebok,Reebok Answer V ,92,74,164,sneakers,4.6
+1138,Reebok,Reebok Club C 85 Vintage ,94,26664,85,sneakers,4.7
+1139,Reebok,Reebok Classic Renaissance ,87,138902,34,sneakers,4.4
+1140,Reebok,Reebok Dual Court ,84,29,42,sneakers,4.6
+1141,Reebok,Reebok DMXpert ,78,64,59,sneakers,3.9
+1142,Reebok,Reebok Solution Mid ,83,107,32,basketball-shoes,4.4
+1144,Reebok,Reebok Blast ,63,37,130,basketball-shoes,3.8
+1145,Reebok,Reebok Mobius ,89,184,159,basketball-shoes,4.5
+1146,Reebok,Reebok Answer IV ,84,109,105,basketball-shoes,4.3
+1147,Reebok,Reebok Shaq Attaq ,85,235,140,basketball-shoes,4.6
+1148,Reebok,Reebok Answer DMX ,84,95,170,basketball-shoes,4.1
+1149,Reebok,Reebok Question Mid ,84,727,100,basketball-shoes,4.3
+1150,Reebok,Reebok Question Low ,76,27,61,basketball-shoes,4.6
+1151,Reebok,Reebok Royal BB4500 Low ,71,291,75,basketball-shoes,3.8
+1152,Reebok,Reebok Kamikaze II Mid ,83,258,120,basketball-shoes,4.5
+1153,Reebok,Reebok Shaqnosis ,84,284,110,basketball-shoes,4.5
+1154,Reebok,Reebok Shaq Attaq Modern ,65,31,150,basketball-shoes,3.9
+1155,Reebok,Reebok Iverson Legacy ,90,1314,127,basketball-shoes,4.8
+1156,Reebok,Reebok JJ IV ,92,286,67,training-shoes,4.6
+1157,Reebok,Reebok Nano X1 ,88,25251,65,training-shoes,4.4
+1158,Reebok,Reebok Nanoflex TR ,81,10760,36,training-shoes,4.2
+1159,Reebok,Reebok Flexagon 3 ,77,2062,32,training-shoes,4.1
+1161,Reebok,Reebok Flexagon ,82,2485,35,training-shoes,4.4
+1163,Reebok,Reebok Flexagon 2.0 ,79,375,52,training-shoes,4.2
+1164,Reebok,Reebok Nano X Unknown ,87,181,130,training-shoes,4.3
+1165,Reebok,Reebok Nano X1 Froning ,89,133,100,training-shoes,4.6
+1166,Reebok,Reebok Reago Pulse ,80,563,40,training-shoes,4.3
+1167,Reebok,Reebok CrossFit Nano 7 ,86,18330,130,training-shoes,4.4
+1168,Reebok,Reebok Flexagon Force ,79,2181,28,training-shoes,4.2
+1169,Reebok,Reebok Flexagon Energy ,83,3619,27,training-shoes,4.4
+1170,Reebok,Reebok Flexagon Energy TR 2.0 ,78,1446,41,training-shoes,4.2
+1171,Reebok,Reebok Nano X2 ,90,1954,73,training-shoes,4.6
+1172,Reebok,Reebok CrossFit Nano 9 ,93,30339,64,training-shoes,4.6
+1173,Reebok,Reebok Nano 6000 ,84,6,135,training-shoes,5.0
+1175,Reebok,Reebok CrossFit Nano 4.0 ,92,1645,115,training-shoes,4.6
+1176,Reebok,Reebok Speed TR Flexweave ,88,3282,84,training-shoes,4.5
+1177,Reebok,Reebok Flexagon Force 2.0 ,81,5717,28,training-shoes,4.4
+1178,Reebok,Reebok Speed TR ,87,2134,57,training-shoes,4.3
+1179,Reebok,Reebok Nano X2 TR Adventure New ,88,71,55,training-shoes,4.5
+1180,Reebok,Reebok Flexagon Force 3 New ,81,1687,32,training-shoes,4.4
+1182,Reebok,Reebok Dart TR 2 ,78,173,34,training-shoes,4.2
+1183,Reebok,Reebok HIIT 2 ,83,734,100,training-shoes,4.3
+1184,Reebok,Reebok Legacy Lifter ,90,5525,68,training-shoes,4.5
+1185,Reebok,Reebok Legacy Lifter II ,89,2199,100,training-shoes,4.7
+1186,Reebok,Reebok JJ IV ,92,286,67,training-shoes,4.6
+1187,Reebok,Reebok Nano X1 ,88,25251,65,training-shoes,4.4
+1188,Reebok,Reebok Nanoflex TR ,81,10760,36,training-shoes,4.2
+1189,Reebok,Reebok Flexagon 3 ,77,2062,32,training-shoes,4.1
+1191,Reebok,Reebok Flexagon ,82,2485,35,training-shoes,4.4
+1193,Reebok,Reebok Flexagon 2.0 ,79,375,52,training-shoes,4.2
+1194,Reebok,Reebok Nano X Unknown ,87,181,130,training-shoes,4.3
+1195,Reebok,Reebok Nano X1 Froning ,89,133,100,training-shoes,4.6
+1196,Reebok,Reebok Reago Pulse ,80,563,40,training-shoes,4.3
+1197,Reebok,Reebok CrossFit Nano 7 ,86,18330,130,training-shoes,4.4
+1198,Reebok,Reebok Flexagon Force ,79,2181,28,training-shoes,4.2
+1199,Reebok,Reebok Flexagon Energy ,83,3619,27,training-shoes,4.4
+1200,Reebok,Reebok Flexagon Energy TR 2.0 ,78,1446,41,training-shoes,4.2
+1201,Reebok,Reebok Nano X2 ,90,1954,73,training-shoes,4.6
+1202,Reebok,Reebok CrossFit Nano 9 ,93,30339,64,training-shoes,4.6
+1203,Reebok,Reebok Nano 6000 ,84,6,135,training-shoes,5.0
+1205,Reebok,Reebok CrossFit Nano 4.0 ,92,1645,115,training-shoes,4.6
+1206,Reebok,Reebok Speed TR Flexweave ,88,3282,84,training-shoes,4.5
+1207,Reebok,Reebok Flexagon Force 2.0 ,81,5717,28,training-shoes,4.4
+1208,Reebok,Reebok Speed TR ,87,2134,57,training-shoes,4.3
+1209,Reebok,Reebok Nano X2 TR Adventure New ,88,71,55,training-shoes,4.5
+1210,Reebok,Reebok Flexagon Force 3 New ,81,1687,32,training-shoes,4.4
+1212,Reebok,Reebok Dart TR 2 ,78,173,34,training-shoes,4.2
+1213,Reebok,Reebok HIIT 2 ,83,734,100,training-shoes,4.3
+1214,Reebok,Reebok Legacy Lifter ,90,5525,68,training-shoes,4.5
+1215,Reebok,Reebok Legacy Lifter II ,89,2199,100,training-shoes,4.7
+1217,Reebok,Reebok Astroride Soul 2 ,84,125,50,walking-shoes,4.2
+1218,Reebok,Reebok Work N Cushion 4.0 ,86,38888,39,walking-shoes,4.3
+1219,Reebok,Reebok Ridgerider 6 ,88,1674,26,walking-shoes,4.4
+1220,Reebok,Reebok Ever Road DMX ,87,1166,23,walking-shoes,4.3
+1221,Reebok,Reebok Walk Ultra 7 DMX MAX ,88,9192,40,walking-shoes,4.4
+1222,Reebok,Reebok CloudRide DMX 3.0 ,80,802,85,walking-shoes,4.0
+1223,Reebok,Reebok Walk Ultra 6 DMX Max ,89,4202,57,walking-shoes,4.4
+1225,Reebok,Reebok Fusion Flexweave Work ,77,3324,75,walking-shoes,3.9
+1227,Reebok,Reebok Ever Road DMX 3 ,77,420,29,walking-shoes,3.8
+1228,Reebok,Reebok Trail Cruiser ,79,353,44,walking-shoes,3.9
+1229,Reebok,Reebok Royal Trainer MT ,83,2023,43,walking-shoes,4.2
+1230,Reebok,Reebok Ridgerider 5 ,80,787,48,walking-shoes,4.0
+1231,Reebok,Reebok Astroride Soul ,80,80,60,walking-shoes,4.0
+1233,Reebok,Reebok Ridgerider Trail 3.0 ,84,1487,45,walking-shoes,4.2
+1234,Reebok,Reebok Ridgerider Leather ,87,1256,60,walking-shoes,4.3
+1235,Reebok,Reebok Fusium Run ,79,411,60,running-shoes,4.4
+1236,Reebok,Reebok Fusium Run 2 ,81,2415,61,running-shoes,4.5
+1238,Reebok,Reebok Endless Road ,78,2356,37,running-shoes,4.3
+1241,Reebok,Reebok Run Supreme 3.0 MT ,74,312,60,running-shoes,4.1
+1242,Reebok,Reebok Jet Dashride 6.0 ,75,128,50,running-shoes,4.2
+1243,Reebok,Reebok Instalite Lux ,80,691,59,running-shoes,4.4
+1244,Reebok,Reebok Lite 3 Lab test ,81,1479,33,running-shoes,4.5
+1245,Reebok,Reebok Lite ,77,2343,33,running-shoes,4.3
+1247,Reebok,Reebok Lite 2.0 ,82,4137,41,running-shoes,4.5
+1249,Reebok,Reebok Metreon ,77,73,33,running-shoes,4.3
+1251,Reebok,Reebok Energen Plus ,81,1780,26,running-shoes,4.5
+1252,Reebok,Reebok Fusion Flexweave ,80,2006,55,running-shoes,4.3
+1253,Reebok,Reebok RUN_R 96 ,68,9,47,running-shoes,4.2
+1254,Reebok,Reebok Lite Plus 3 ,75,566,30,running-shoes,4.2
+1256,Reebok,Reebok Runner 4 ,74,3973,55,running-shoes,4.1
+1257,Reebok,Reebok Driftium ,82,752,48,running-shoes,4.6
+1258,Reebok,Reebok Speed Breeze 2 ,77,350,32,running-shoes,4.3
+1259,Reebok,Reebok Endless Road 2 ,72,1427,27,running-shoes,4.0
+1261,Reebok,Reebok EnergyLux 2 ,78,3975,37,running-shoes,4.3
+1263,Reebok,Reebok Flashfilm 2.0 ,80,2254,50,running-shoes,4.5
+1264,Reebok,Reebok Flashfilm 3.0 ,73,426,25,running-shoes,4.1
+1265,Reebok,Reebok DMX Thrill ,87,7,75,sneakers,4.9
+1266,Reebok,Reebok Club C 85 Vegan New ,92,17493,60,sneakers,4.6
+1267,Reebok,Reebok Classic Nylon ,92,130173,38,sneakers,4.6
+1268,Reebok,Reebok BB 4000 ,86,520,40,sneakers,4.3
+1269,Reebok,Reebok Club C RC 1 ,83,5,60,sneakers,4.6
+1270,Reebok,Reebok Pyro ,87,1134,29,sneakers,4.4
+1271,Reebok,Reebok Classic Harman Run ,89,166319,28,sneakers,4.5
+1272,Reebok,Reebok Club C Revenge ,92,25141,40,sneakers,4.6
+1273,Reebok,Reebok Aztrek ,87,5560,28,sneakers,4.4
+1275,Reebok,Reebok Aztrek 96 ,88,2242,24,sneakers,4.4
+1276,Reebok,Reebok Zig Kinetica II Edge New ,90,58,72,sneakers,4.5
+1277,Reebok,Reebok Classic Leather ,92,204681,23,sneakers,4.6
+1279,Reebok,Reebok Club C Revenge Vintage ,71,21,155,sneakers,3.9
+1281,Reebok,Reebok Daytona DMX Vector ,75,42,55,sneakers,4.2
+1282,Reebok,Reebok Workout Plus Nepenthes ,67,10,50,sneakers,3.7
+1283,Reebok,Reebok Split Fuel ,79,1001,45,sneakers,3.9
+1284,Reebok,Reebok Zig Kinetica Concept_Type1 ,87,7,72,sneakers,4.9
+1285,Reebok,Reebok DMX Run 10 ,92,166,70,sneakers,4.6
+1286,Reebok,Reebok Club C 85 Leather ,92,2599,55,sneakers,4.6
+1287,Reebok,Reebok Ex-O-Fit Hi ,92,1128,70,sneakers,4.6
+1288,Reebok,Reebok Royal Glide ,88,18146,70,sneakers,4.4
+1289,Reebok,Reebok Fury Adapt ,75,207,60,sneakers,3.8
+1290,Reebok,Reebok AZ II ,93,112,57,sneakers,4.7
+1291,Reebok,Reebok Tom And Jerry Club C 85 ,84,22,247,sneakers,4.7
+1292,Reebok,Reebok Aztrek 96 Adventure ,85,985,61,sneakers,4.3
+1293,Reebok,Reebok DMX Series 2000 ,84,97,70,sneakers,4.2
+1294,Reebok,Reebok Sole Fury ,85,3534,45,sneakers,4.2
+1295,Reebok,Reebok CrossFit Lifter 2.0 ,86,688,80,training-shoes,4.4
+1296,Reebok,Reebok HIIT ,85,11492,48,training-shoes,4.5
+1297,Reebok,Reebok Nano X ,92,24201,70,training-shoes,4.6
+1298,Reebok,Reebok Combat Noble Trainer ,82,109,86,training-shoes,4.2
+1301,Reebok,Reebok Lifter PR II ,91,1037,64,training-shoes,4.6
+1302,Reebok,Reebok ROS Workout TR 2.0 ,79,5750,67,training-shoes,4.3
+1305,Reebok,Reebok JJ II ,87,162,70,training-shoes,4.7
+1307,Reebok,Reebok JJ III ,78,2673,71,training-shoes,4.2
+1308,Reebok,Reebok Lifter PR ,88,6143,59,training-shoes,4.6
+1309,Reebok,Reebok Froning ,89,84,150,training-shoes,4.6
+1311,Reebok,Reebok Hydrorush ,82,224,47,training-shoes,4.4
+1312,Reebok,Reebok Hydrorush II ,81,68,61,training-shoes,4.3
+1314,Reebok,Reebok CrossFit Speed TR 2.0 ,91,1188,90,training-shoes,4.5
+1315,Reebok,Reebok Advanced Trainer ,76,707,35,training-shoes,4.1
+1317,Reebok,Reebok CrossFit Lifter 2.0 ,86,688,80,training-shoes,4.4
+1318,Reebok,Reebok HIIT ,85,11492,48,training-shoes,4.5
+1319,Reebok,Reebok Nano X ,92,24201,70,training-shoes,4.6
+1320,Reebok,Reebok Combat Noble Trainer ,82,109,86,training-shoes,4.2
+1323,Reebok,Reebok Lifter PR II ,91,1037,64,training-shoes,4.6
+1324,Reebok,Reebok ROS Workout TR 2.0 ,79,5750,67,training-shoes,4.3
+1327,Reebok,Reebok JJ II ,87,162,70,training-shoes,4.7
+1329,Reebok,Reebok JJ III ,78,2673,71,training-shoes,4.2
+1330,Reebok,Reebok Lifter PR ,88,6143,59,training-shoes,4.6
+1331,Reebok,Reebok Froning ,89,84,150,training-shoes,4.6
+1333,Reebok,Reebok Hydrorush ,82,224,47,training-shoes,4.4
+1334,Reebok,Reebok Hydrorush II ,81,68,61,training-shoes,4.3
+1336,Reebok,Reebok CrossFit Speed TR 2.0 ,91,1188,90,training-shoes,4.5
+1337,Reebok,Reebok Advanced Trainer ,76,707,35,training-shoes,4.1
+1339,Reebok,Reebok Zigwild TR 5.0 ,83,2705,90,running-shoes,4.6
+1340,Reebok,Reebok Fusion Flexweave Cage ,76,779,60,running-shoes,4.2
+1341,Reebok,Reebok Royal Turbo Impulse ,84,571,35,sneakers,4.2
+1342,Reebok,Reebok Club C Coast New ,92,518,14,sneakers,4.6
+1343,Reebok,Reebok Zig Kinetica Edge ,95,1751,118,sneakers,4.7
+1344,Reebok,Reebok Club C Mid II Vintage New ,90,5,90,sneakers,5.0
+1345,Reebok,Reebok DMX Series 2200 ,87,223,41,sneakers,4.3
+1346,Reebok,Reebok Zig Dynamica ,87,9946,43,sneakers,4.4
+1347,Reebok,Reebok Classic Leather Ripple ,89,50,70,sneakers,4.5
+1349,Reebok,Reebok Electrolyte 97 ,85,31,88,sneakers,4.7
+1351,Reebok,Reebok Classic Leather Legacy ,89,12962,22,sneakers,4.5
+1352,Reebok,Reebok Classic Leather Legacy AZ New ,86,262,30,sneakers,4.3
+1353,Reebok,Reebok Classic Leather 1983 Vintage New ,90,5,65,sneakers,5.0
+1354,Reebok,Reebok Classic Leather Ripple Trail ,90,4462,37,sneakers,4.5
+1355,Reebok,Reebok Bolton Essential ,85,84,27,sneakers,4.2
+1356,Reebok,Reebok Instapump Fury Boost ,88,9,64,sneakers,4.9
+1357,Reebok,Reebok Classic Leather ATI 90S ,87,100,85,sneakers,4.4
+1358,Reebok,Reebok Daytona DMX ,83,147,81,sneakers,4.2
+1359,Reebok,Reebok Slice USA ,87,290,70,sneakers,4.3
+1360,Reebok,Reebok Furylite ,87,307,79,sneakers,4.3
+1361,Reebok,Reebok LT Court New ,71,53,120,sneakers,3.5
+1362,Reebok,Reebok Premier New ,80,20,47,sneakers,4.5
+1363,Reebok,Reebok Victory G New ,90,5,70,sneakers,5.0
+1365,Reebok,Reebok BB 4600 ,88,1349,50,sneakers,4.4
+1366,Reebok,Reebok Club C 85 MU ,92,6702,39,sneakers,4.6
+1367,Reebok,Reebok Club MEMT ,90,81970,32,sneakers,4.5
+1369,Reebok,Reebok Rapide ,89,380,59,sneakers,4.4
+1372,Reebok,Reebok Rapide MU ,88,362,39,sneakers,4.4
+1373,Reebok,Reebok Pump Court ,86,40,80,sneakers,4.8
+1374,Reebok,Reebok Mobius OG MU ,91,56,110,sneakers,4.6
+1376,Reebok,Reebok Fury Adapt UC ,76,107,90,sneakers,3.8
+1377,Reebok,Reebok Pump Omni Lite ,80,45,200,sneakers,4.4
+1378,Reebok,Reebok Royal EC Ride 2 ,84,246,28,sneakers,4.2
+1379,Reebok,Reebok Pump Omni Zone II ,83,10,160,sneakers,4.6
+1380,Reebok,Reebok Workout Low ,90,1405,70,sneakers,4.5
+1381,Reebok,Reebok More Buckets New ,88,540,32,sneakers,4.4
+1382,Reebok,Reebok DMX Series 1600 ,82,124,95,sneakers,4.1
+1383,Reebok,Reebok Furylite X ,81,37,90,sneakers,4.5
+1384,Reebok,Reebok Zig Kinetica ,93,3670,40,sneakers,4.7
+1385,Reebok,Reebok Royal BB4500 HI2 ,90,56725,49,sneakers,4.5
+1386,Reebok,Reebok Royal BB4500 Hi ,89,31627,81,sneakers,4.5
+1387,Reebok,Reebok BB 5600 Premium ,79,13,63,sneakers,4.4
+1389,Reebok,Reebok Workout Plus MU ,84,221,158,sneakers,4.2
+1391,Reebok,Reebok Furylite SP ,78,21,54,sneakers,4.3
+1392,Reebok,Reebok Zig Dynamica 2 New ,88,2160,40,sneakers,4.4
+1395,Reebok,Reebok Workout Clean ,88,787,65,sneakers,4.4
+1396,Reebok,Reebok Workout Ripple ,82,41,80,sneakers,4.5
+1397,Reebok,Reebok Hydrorush TR ,90,384,70,sneakers,4.5
+1398,Reebok,Reebok BBC Question Low ,83,5,198,sneakers,4.6
+1399,Reebok,Reebok Workout Plus 1987 TV ,88,2630,100,sneakers,4.4
+1400,Reebok,Reebok DMX Run 10 x Predator ,77,8,90,sneakers,4.3
+1401,Reebok,Reebok InstaPump Fury OG ,87,547,115,sneakers,4.3
+1403,Reebok,Reebok Pump Supreme Engine ,83,8,76,sneakers,4.6
+1405,Reebok,Reebok Classic Leather MU ,90,1025,84,sneakers,4.5
+1406,Reebok,Reebok Instapump Fury Zone ,90,9,170,sneakers,5.0
+1408,Reebok,Reebok Sole Fury Floatride ,69,38,61,sneakers,3.9
+1410,Reebok,Reebok Classic Leather Vector ,92,5639,80,sneakers,4.6
+1411,Reebok,Reebok 3D Op.Fractional ,75,12,95,sneakers,4.2
