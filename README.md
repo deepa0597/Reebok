@@ -2,11 +2,6 @@
 
 ## Reebok Revenue Enhancement Pitch
 
-## Authors
-1. Deepa Narayanan
-2. Dustin Allred
-3. Quanqi Ke
-
 ## Requirement
 1. Python 3.7.2
 2. Jupyter Notebook
